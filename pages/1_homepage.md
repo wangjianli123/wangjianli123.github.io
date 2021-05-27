@@ -14,7 +14,7 @@ permalink: /homepage/
 
 * 2020.3.17: One paper "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior" has been accepted by _**IGARSS 2021**_.
 
-* 2020.2.18: One paper "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform" has been accepted by _**IEEE Trans. Image Process.**_
+* 2020.2.18: One paper "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform" has been accepted by _**IEEE Transactions on Image Processing**_.
 
 
 ---

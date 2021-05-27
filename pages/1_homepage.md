@@ -43,10 +43,8 @@ permalink: /homepage/
 
 ### Awards and Honors
 
-*  Academic Rookie, UESTC, 2021
-*  National Scholarship for Ph. D. student, UESTC, 2020
+*  Academic Scholarship for Ph. D. student, UESTC, 2020
 *  Special postgraduate scholarship of science, UESTC, 2019
-*  Pacemaker to Merit Student, AUFE, 2015 and 2016
 
 ---
 
@@ -57,12 +55,6 @@ permalink: /homepage/
 * 02/2021: "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
 * 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
-
-#### Reviewer
-
-*  IEEE Transactions on Neural Networks and Learning Systems
-*  Applied Mathematical Modeling
-*  Information Systems
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>

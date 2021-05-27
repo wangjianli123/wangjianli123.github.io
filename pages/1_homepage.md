@@ -21,7 +21,7 @@ permalink: /homepage/
 
 ### Publications
 
-# Journal:
+#### Journal:
 
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _EEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. [[PDF]](https://wangjianli123.github.io/papers/TIP2021_CTLRTC_jlwang.pdf)
 

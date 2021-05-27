@@ -31,6 +31,11 @@ permalink: /homepage/
 
 
 
+#### Conference:
+
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, Tai-Xiang Jiang, "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", _IEEE International Geoscience and Remote Sensing Symposium_, 2021. [Accepted]
+
+
 ---
 
 ### Experiences 

@@ -14,14 +14,14 @@ permalink: /homepage/
 
 * 2020.3.17: One paper "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior" has been accepted by _**IGARSS 2021**_.
 
-* 2020.2.18: One paper "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform" has been accepted by _**IEEE Trans. Image Process.**_.
+* 2020.2.18: One paper "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform" has been accepted by _**IEEE Trans. Image Process.**_
 
 
 ---
 
 ### Publications
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[PDF]](https://wangjianli123.github.io/papers/JSTARS-jlwang.pdf) [[Code]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[PDF]](https://wangjianli123.github.io/papers/JSTARS2019-RBSUTV-jlwang.pdf) [[Code]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
 
 
 

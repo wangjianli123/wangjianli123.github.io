@@ -12,7 +12,7 @@ permalink: /homepage/
 
 ### News
 
-* 2020.8.10: One paper "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
+* 2021.8.10: One paper "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 * 2020.3.17: One paper "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior" has been accepted by _**IGARSS 2021**_.
 

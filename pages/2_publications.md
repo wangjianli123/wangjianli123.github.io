@@ -18,7 +18,7 @@ permalink: /publications/
 
 3. **Jian-Li Wang**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen, "A Sheared Low-Rank Model for Oblique Stripe Removal", _Applied Mathematics and Computation_, vol. 360, pp. 167-180, 2019. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300319302747) [[Code]](https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip)
 
-4. * Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [[Accepted]](https://arxiv.org/abs/2102.12310)
+4. Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [[Accepted]](https://arxiv.org/abs/2102.12310)
 
 
 

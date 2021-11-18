@@ -29,6 +29,20 @@ permalink: /homepage/
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
+<div id="bib_zhengFCTN2021" class="BibTeX noshow">
+<pre>
+@inproceedings{zhengFCTN2021,
+  title={Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion}, 
+  author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={12},
+  pages={11071-11078},
+  year={2021},  
+}
+</pre>
+</div>
+
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9372832)
 
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[PDF]](https://ieeexplore.ieee.org/document/8855071) [[Code]](https://wangjianli123.github.io/codes/code_RBSUTV.zip)

@@ -6,6 +6,44 @@ permalink: /homepage/
 
 ---
 
+<style>
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+   The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.BibTeX {
+  margin-right: 1%;
+  margin-left: 3%;
+  margin-top: 1.2em;
+  margin-bottom: 1.3em;
+  border: 1px solid silver;
+  padding: 0.3em 0.5em;
+  background: #eeeeee;
+}
+div.BibTeX pre { font-size: 85%; overflow: auto;  width: 100%; }
+</style>
+
+<script>
+function toggleBibtex(articleid) {
+  var bib = document.getElementById('bib_'+articleid);
+  if (bib) {
+    if(bib.className.indexOf('BibTeX') != -1) {
+    bib.className.indexOf('noshow') == -1?bib.className = 'BibTeX noshow':bib.className = 'BibTeX';
+    }
+  } else {
+    return;
+  }
+}
+</script>
+
 ### Biography
  
 | <br>**Jian-Li Wang** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is also a visiting student (advised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/)) with the [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore. Her research interest includes high-dimensional data processing, tensor modeling and computing, computer vision, and deeplearning. <br> <br> **Email:** <wangjianli_123@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang)  &emsp; [GitHub](https://github.com/wangjianli123/) <br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |

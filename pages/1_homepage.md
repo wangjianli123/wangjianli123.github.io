@@ -12,6 +12,8 @@ permalink: /homepage/
 
 ### News
 
+* 2021.11.3: One paper "Tensor Completion via Collaborative Sparse and Low-Rank Transforms" has been accepted by _**IEEE Transactions on Computational Imaging**_.
+
 * 2021.8.10: One paper "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 * 2021.3.17: One paper "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior" has been accepted by _**IGARSS 2021**_.
@@ -32,6 +34,8 @@ permalink: /homepage/
 * **Jian-Li Wang**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen, "A Sheared Low-Rank Model for Oblique Stripe Removal", _Applied Mathematics and Computation_, vol. 360, pp. 167-180, 2019. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300319302747) [[Code]](https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip)
 
 * Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [[Accepted]](https://arxiv.org/abs/2102.12310)
+
+* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, 2021. [[Accepted]](https://arxiv.org/abs/2102.12310) **accepted**, doi: 10.1109/LGRS.2021.3124804, 2021. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
 
 
 

@@ -48,7 +48,7 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <br>**Jian-Li Wang** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is also a visiting student (advised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/)) with the [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore. Her research interest includes high-dimensional data processing, tensor modeling and computing, computer vision, and deeplearning. <br> <br> **Email:** <wangjianli_123@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/) <br> **CV:** [Jian-Li Wang](https://wangjianli123.github.io/images/JIan_Li_Wang_CV.pdf/)  <br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
+| <br>**Jian-Li Wang** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is also a visiting student (advised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/)) with the [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore. Her research interest includes high-dimensional data processing, tensor modeling and computing, computer vision, and deeplearning. <br> <br> **Email:** <wangjianli_123@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/) <br> **CV:** [Jian-Li Wang](https://wangjianli123.github.io/images/Jian_Li_Wang_CV.pdf)  <br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
 
 ### News
 
@@ -67,17 +67,16 @@ function toggleBibtex(articleid) {
 
 #### Journal:
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. <a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832)
 
-<div id="bib_zhengFCTN2021" class="BibTeX noshow">
+<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
 <pre>
-@inproceedings{zhengFCTN2021,
-  title={Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion}, 
-  author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={12},
-  pages={11071-11078},
+@article{wangCTLRTC2021,
+  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={3581-3596},
   year={2021},  
 }
 </pre>
@@ -85,15 +84,68 @@ function toggleBibtex(articleid) {
 
 
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9372832)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. <a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8855071) [[Code]](https://wangjianli123.github.io/codes/code_RBSUTV.zip)
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[PDF]](https://ieeexplore.ieee.org/document/8855071) [[Code]](https://wangjianli123.github.io/codes/code_RBSUTV.zip)
+<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<pre>
+@article{wangCTLRTC2021,
+  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={3581-3596},
+  year={2021},  
+}
+</pre>
+</div>
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen, "A Sheared Low-Rank Model for Oblique Stripe Removal", _Applied Mathematics and Computation_, vol. 360, pp. 167-180, 2019. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300319302747) [[Code]](https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip)
 
-* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [[Accepted]](https://arxiv.org/abs/2102.12310)
+* **Jian-Li Wang**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen, "A Sheared Low-Rank Model for Oblique Stripe Removal", _Applied Mathematics and Computation_, vol. 360, pp. 167-180, 2019. <a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300319302747) [[Code]](https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip)
 
-* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, 2021. [[Accepted]](https://arxiv.org/abs/2102.12310) **accepted**, doi: 10.1109/LGRS.2021.3124804, 2021. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<pre>
+@article{wangCTLRTC2021,
+  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={3581-3596},
+  year={2021},  
+}
+</pre>
+</div>
+
+
+* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, 2021.<a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://arxiv.org/abs/2102.12310)
+
+<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<pre>
+@article{wangCTLRTC2021,
+  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={3581-3596},
+  year={2021},  
+}
+</pre>
+</div>
+
+
+* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, 2021. [[Accepted]](https://arxiv.org/abs/2102.12310) **accepted**, doi: 10.1109/LGRS.2021.3124804, 2021. <a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+
+<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<pre>
+@article{wangCTLRTC2021,
+  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={3581-3596},
+  year={2021},  
+}
+</pre>
+</div>
 
 
 

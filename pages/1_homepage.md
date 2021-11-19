@@ -67,13 +67,13 @@ function toggleBibtex(articleid) {
 
 #### Journal:
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. <a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. <a href="javascript:toggleBibtex('wangCTLRTC_TIP2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832)
 
-<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<div id="bib_wangCTLRTC_TIP2021" class="BibTeX noshow">
 <pre>
-@article{wangCTLRTC2021,
+@article{wangCTLRTC_TIP2021,
   title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Jiang, Tai-Xiang and Michael K. Ng}, 
   journal={IEEE Transactions on Image Processing},
   volume={30},
   pages={3581-3596},
@@ -84,33 +84,34 @@ function toggleBibtex(articleid) {
 
 
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. <a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8855071) [[Code]](https://wangjianli123.github.io/codes/code_RBSUTV.zip)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. <a href="javascript:toggleBibtex('wangRBSUTV_JSTAR2019')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8855071) [[Code]](https://wangjianli123.github.io/codes/code_RBSUTV.zip)
 
-<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<div id="bib_wangRBSUTV_JSTAR2019" class="BibTeX noshow">
 <pre>
-@article{wangCTLRTC2021,
-  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={3581-3596},
-  year={2021},  
+@article{wangRBSUTV_JSTAR2019,
+  title={Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Huang, Jie and Ma, Tian-Hui and Zheng, Yu-Bang}, 
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={12},
+  number={12},
+  pages={4951-4963},
+  year={2019},  
 }
 </pre>
 </div>
 
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen, "A Sheared Low-Rank Model for Oblique Stripe Removal", _Applied Mathematics and Computation_, vol. 360, pp. 167-180, 2019. <a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300319302747) [[Code]](https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip)
+* **Jian-Li Wang**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen, "A Sheared Low-Rank Model for Oblique Stripe Removal", _Applied Mathematics and Computation_, vol. 360, pp. 167-180, 2019. <a href="javascript:toggleBibtex('wangsheared_AMC2019')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300319302747) [[Code]](https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip)
 
-<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<div id="bib_wangsheared_AMC2019" class="BibTeX noshow">
 <pre>
-@article{wangCTLRTC2021,
-  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={3581-3596},
-  year={2021},  
+@article{wangsheared_AMC2019,
+  title={A Sheared Low-Rank Model for Oblique Stripe Removal}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Ma, Tian-Hui and Zhao, Xi-Le and Chen, Yong}, 
+  journal={Applied Mathematics and Computation},
+  volume={360},
+  pages={167-180},
+  year={2019},  
 }
 </pre>
 </div>

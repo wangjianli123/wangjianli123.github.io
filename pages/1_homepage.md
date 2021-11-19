@@ -67,7 +67,7 @@ function toggleBibtex(articleid) {
 
 #### Journal:
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. <a href="javascript:toggleBibtex('wangCTLRTC_TIP2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. <a href="javascript:toggleBibtex('wangCTLRTC_TIP2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832)  [[Poster]](https://github.com/wangjianli123/wangjianli123.github.io/tree/main/report/poster_4.png)
 
 <div id="bib_wangCTLRTC_TIP2021" class="BibTeX noshow">
 <pre>

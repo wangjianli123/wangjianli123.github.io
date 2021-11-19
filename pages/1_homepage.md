@@ -117,33 +117,35 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, 2021.<a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://arxiv.org/abs/2102.12310)
+* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2021.3106380, 2021.<a href="javascript:toggleBibtex('miaoDS2DP_TGRS2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9524362)
 
-<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<div id="bib_miaoDS2DP_TGRS2021" class="BibTeX noshow">
 <pre>
-@article{wangCTLRTC2021,
-  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={3581-3596},
-  year={2021},  
+@article{miaoDS2DP_TGRS2021,
+  title={Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors}, 
+  author={miao, Yu-Chun and Zhao, Xi-Le and Fu, Xiao and Wang, Jian-Li and Zheng, Yu-Bang}, 
+  journal={Transactions on Geoscience and Remote Sensing},
+  volume = { },
+  pages = { },
+  year = {2021},
+  note = {doi: 10.1109/TGRS.2021.3106380},
 }
 </pre>
 </div>
 
 
-* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, 2021. [[Accepted]](https://arxiv.org/abs/2102.12310) **accepted**, doi: 10.1109/LGRS.2021.3124804, 2021. <a href="javascript:toggleBibtex('wangCTLRTC2021')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, doi: 10.1109/TCI.2021.3126232, 2021. <a href="javascript:toggleBibtex('liCSLRT_TCI2021')" class="textlink">[BibTeX]</a> [[PDF]](hhttps://ieeexplore.ieee.org/document/9612046)
 
-<div id="bib_wangCTLRTC2021" class="BibTeX noshow">
+<div id="bib_liCSLRT_TCI2021" class="BibTeX noshow">
 <pre>
-@article{wangCTLRTC2021,
-  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={3581-3596},
-  year={2021},  
+@article{liCSLRT_TCI2021,
+  title={Tensor Completion via Collaborative Sparse and Low-Rank Transforms}, 
+  author={Li, Ben-Zheng and Zhao, Xi-Le and Wang, Jian-Li and Chen, Yong and Jiang, Tai-Xiang and Liu, Jun}, 
+  journal={IEEE Transactions on Computational Imaging},
+  volume = { },
+  pages = { },
+  year = {2021},
+  note = {doi: 10.1109/TCI.2021.3126232},
 }
 </pre>
 </div>
@@ -152,7 +154,24 @@ function toggleBibtex(articleid) {
 
 #### Conference:
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, Tai-Xiang Jiang, "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", _in Proceedings of the IEEE International Geoscience and Remote Sensing Symposium_, 2021. [Accepted]
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, Tai-Xiang Jiang, "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2021, pp. 11-16. <a href="javascript:toggleBibtex('wangDIP_TR_IGARSS2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/9555068)
+
+<div id="wangDIP_TR_IGARSS2021" class="BibTeX noshow">
+<pre>
+@inproceedings{wangDIP_TR_IGARSS2021,
+  title={Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Ji, Teng-Yu and Jiang, Tai-Xiang}, 
+  booktitle={IEEE International Geoscience and Remote Sensing Symposium},
+  volume = { },
+  pages = { },
+  year = {2021},
+  pages={11-16},
+}
+</pre>
+</div>
+
+
+
 
 
 ---
@@ -169,6 +188,9 @@ function toggleBibtex(articleid) {
 
 ### Awards and Honors
 
+
+*  Academic Rookie, UESTC, 2021
+*  National Scholarship for Ph. D. student, UESTC, 2020
 *  Academic Scholarship for Ph. D. student, UESTC, 2020
 *  Special postgraduate scholarship of science, UESTC, 2019
 
@@ -178,9 +200,13 @@ function toggleBibtex(articleid) {
 
 #### Reports
 
-<!-- * 02/2021: "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
-* 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) -->
+
+*  10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](ttps://github.com/wangjianli123/wangjianli123.github.io/tree/main/report/IGRASS2021_1400.pdf)
+
+*  07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, **Online**, [[Slide]](https://github.com/wangjianli123/wangjianli123.github.io/tree/main/report/IGRASS2021_1400.pdf)
+
+---
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ppukccgb3a&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>

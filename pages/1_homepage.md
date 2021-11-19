@@ -65,7 +65,6 @@ function toggleBibtex(articleid) {
 
 ### Publications
 
-#### Journal:
 
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. <a href="javascript:toggleBibtex('wangCTLRTC_TIP2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832)  [[Poster]](https://github.com/wangjianli123/wangjianli123.github.io/tree/main/report/poster_4.png)
 
@@ -117,46 +116,9 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2021.3106380, 2021.<a href="javascript:toggleBibtex('miaoDS2DP_TGRS2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9524362)
-
-<div id="bib_miaoDS2DP_TGRS2021" class="BibTeX noshow">
-<pre>
-@article{miaoDS2DP_TGRS2021,
-  title={Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors}, 
-  author={miao, Yu-Chun and Zhao, Xi-Le and Fu, Xiao and Wang, Jian-Li and Zheng, Yu-Bang}, 
-  journal={Transactions on Geoscience and Remote Sensing},
-  volume = { },
-  pages = { },
-  year = {2021},
-  note = {doi: 10.1109/TGRS.2021.3106380},
-}
-</pre>
-</div>
-
-
-* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, doi: 10.1109/TCI.2021.3126232, 2021. <a href="javascript:toggleBibtex('liCSLRT_TCI2021')" class="textlink">[BibTeX]</a> [[PDF]](hhttps://ieeexplore.ieee.org/document/9612046)
-
-<div id="bib_liCSLRT_TCI2021" class="BibTeX noshow">
-<pre>
-@article{liCSLRT_TCI2021,
-  title={Tensor Completion via Collaborative Sparse and Low-Rank Transforms}, 
-  author={Li, Ben-Zheng and Zhao, Xi-Le and Wang, Jian-Li and Chen, Yong and Jiang, Tai-Xiang and Liu, Jun}, 
-  journal={IEEE Transactions on Computational Imaging},
-  volume = { },
-  pages = { },
-  year = {2021},
-  note = {doi: 10.1109/TCI.2021.3126232},
-}
-</pre>
-</div>
-
-
-
-#### Conference:
-
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, Tai-Xiang Jiang, "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2021, pp. 11-16. <a href="javascript:toggleBibtex('wangDIP_TR_IGARSS2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/9555068)
 
-<div id="wangDIP_TR_IGARSS2021" class="BibTeX noshow">
+<div id="bib_wangDIP_TR_IGARSS2021" class="BibTeX noshow">
 <pre>
 @inproceedings{wangDIP_TR_IGARSS2021,
   title={Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior}, 
@@ -171,6 +133,38 @@ function toggleBibtex(articleid) {
 </div>
 
 
+* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2021.3106380, 2021. <a href="javascript:toggleBibtex('miaoDS2DP_TGRS2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9524362)
+
+<div id="bib_miaoDS2DP_TGRS2021" class="BibTeX noshow">
+<pre>
+@article{miaoDS2DP_TGRS2021,
+  title={Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors}, 
+  author={Miao, Yu-Chun and Zhao, Xi-Le and Fu, Xiao and Wang, Jian-Li and Zheng, Yu-Bang}, 
+  journal={Transactions on Geoscience and Remote Sensing},
+  volume = { },
+  pages = { },
+  year = {2021},
+  note = {doi: 10.1109/TGRS.2021.3106380},
+}
+</pre>
+</div>
+
+
+* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, doi: 10.1109/TCI.2021.3126232, 2021. <a href="javascript:toggleBibtex('liCSLRT_TCI2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9612046)
+
+<div id="bib_liCSLRT_TCI2021" class="BibTeX noshow">
+<pre>
+@article{liCSLRT_TCI2021,
+  title={Tensor Completion via Collaborative Sparse and Low-Rank Transforms}, 
+  author={Li, Ben-Zheng and Zhao, Xi-Le and Wang, Jian-Li and Chen, Yong and Jiang, Tai-Xiang and Liu, Jun}, 
+  journal={IEEE Transactions on Computational Imaging},
+  volume = { },
+  pages = { },
+  year = {2021},
+  note = {doi: 10.1109/TCI.2021.3126232},
+}
+</pre>
+</div>
 
 
 

@@ -4,6 +4,10 @@ title: Jian-Li Wang (Jianli Wang)
 comments: true
 permalink: /homepage/
 
+
+* content
+{:toc}
+
 ---
 
 <style>
@@ -48,7 +52,7 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <br>**Jian-Li Wang** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is also a visiting student (advised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/)) with the [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore. Her research interest includes high-dimensional data processing, tensor modeling and computing, computer vision, and deeplearning. <br> <br> **Email:** <wangjianli_123@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/) <br> **CV:** [Jian-Li Wang](https://wangjianli123.github.io/images/Jian_Li_Wang_CV.pdf)  <br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
+| <br>**Jian-Li Wang** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is also a visiting student (advised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/)) with the [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore. Her research interest includes tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning. <br> <br> **Email:** <wangjianli_123@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/) <br> **CV:** [Jian-Li Wang](https://wangjianli123.github.io/images/Jian_Li_Wang_CV.pdf)  <br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
 
 ### News
 
@@ -183,8 +187,7 @@ function toggleBibtex(articleid) {
 ### Awards and Honors
 
 
-*  Academic Rookie, UESTC, 2021
-*  National Scholarship for Ph. D. student, UESTC, 2020
+*  Academic Scholarship for Ph. D. student, UESTC, 2021
 *  Academic Scholarship for Ph. D. student, UESTC, 2020
 *  Special postgraduate scholarship of science, UESTC, 2019
 

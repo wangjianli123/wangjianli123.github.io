@@ -66,7 +66,7 @@ function toggleBibtex(articleid) {
 ### Publications
 
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. <a href="javascript:toggleBibtex('wangCTLRTC_TIP2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832) [[Poster]](https://github.com/wangjianli123/wangjianli123.github.io/tree/main/report/poster_4.pdf)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. <a href="javascript:toggleBibtex('wangCTLRTC_TIP2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832) [[Poster]](https://wangjianli123.github.io/images/poster_4.pdf)
 
 <div id="bib_wangCTLRTC_TIP2021" class="BibTeX noshow">
 <pre>
@@ -196,9 +196,9 @@ function toggleBibtex(articleid) {
 
 
 
-*  10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](https://wangjianli123.github.io/images/Jian_Li_Wang_CV.pdf)
+*  10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](https://wangjianli123.github.io/images/IGRASS2021_1400.pdf)
 
-*  07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, **Online**, [[Slide]](https://github.com/wangjianli123/wangjianli123.github.io/tree/main/report/IGRASS2021_1400.pdf)
+*  07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, **Online**, [[Slide]](https://wangjianli123.github.io/images/IGRASS2021_1400.pdf)
 
 ---
 

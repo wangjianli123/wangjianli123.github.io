@@ -85,6 +85,23 @@ function toggleBibtex(articleid) {
 </div>
 
 
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yi-Si Luo, Tai-Xiang Jiang, Michael K. Ng, "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion", _IEEE Transactions on Neural Networks and Learning Systems_, accepted, 2022. <a href="javascript:toggleBibtex('wangCTLRTC_TIP2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832) [[Poster]](https://wangjianli123.github.io/images/poster_4.pdf)
+
+<div id="bib_wangCTLRTC_TIP2021" class="BibTeX noshow">
+<pre>
+@article{wangCTLRTC_TIP2021,
+  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Jiang, Tai-Xiang and Michael K. Ng}, 
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={3581-3596},
+  year={2021},  
+}
+</pre>
+</div>
+
+
+
 
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. <a href="javascript:toggleBibtex('wangRBSUTV_JSTAR2019')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8855071) [[Code]](https://wangjianli123.github.io/codes/code_RBSUTV.zip)
 

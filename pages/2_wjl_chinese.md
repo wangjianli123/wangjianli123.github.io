@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### 个人简介
  
-| <br>**王检利**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从国家级教学名师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐教授](https://zhaoxile.github.io/)。 研究方向：张量建模与计算, 高维数据处理, 计算机视觉, 深度学习等。 <br> <br> **邮箱:** <wangjianli_123@163.com>  <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/) <br> **个人简历:** [王检利](https://wangjianli123.github.io/images/Jian_Li_Wang_CV.pdf) <br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
+| <br>**王检利**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从国家级教学名师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐教授](https://zhaoxile.github.io/)。 研究方向：张量建模与计算, 高维数据处理, 计算机视觉, 深度学习等。 <br> <br> **邮箱:** <wangjianli_123@163.com>  <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/) <br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
 
 
 ### 学术论文

@@ -85,9 +85,9 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yi-Si Luo, Tai-Xiang Jiang, Michael K. Ng, "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion", _IEEE Transactions on Neural Networks and Learning Systems_, accepted, 2022. <a href="javascript:toggleBibtex('wangCTLRTC_TIP2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832) [[Poster]](https://wangjianli123.github.io/images/poster_4.pdf)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yi-Si Luo, Tai-Xiang Jiang, Michael K. Ng, "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion", _IEEE Transactions on Neural Networks and Learning Systems_, accepted, 2022. <a href="javascript:toggleBibtex('wangCoNoT_TNNLS2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832)
 
-<div id="bib_wangCTLRTC_TIP2021" class="BibTeX noshow">
+<div id="bib_wangCoNoT_TNNLS2022" class="BibTeX noshow">
 <pre>
 @article{wangCTLRTC_TIP2021,
   title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 

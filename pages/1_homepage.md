@@ -53,6 +53,8 @@ function toggleBibtex(articleid) {
 
 ### News
 
+* 2022.10.14: One paper "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion" has been accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_.
+
 * 2021.11.3: One paper "Tensor Completion via Collaborative Sparse and Low-Rank Transforms" has been accepted by _**IEEE Transactions on Computational Imaging**_.
 
 * 2021.8.10: One paper "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.

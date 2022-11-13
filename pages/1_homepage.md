@@ -89,14 +89,16 @@ function toggleBibtex(articleid) {
 
 <div id="bib_wangCoNoT_TNNLS2022" class="BibTeX noshow">
 <pre>
-@article{wangCTLRTC_TIP2021,
-  title={Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Jiang, Tai-Xiang and Michael K. Ng}, 
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={3581-3596},
-  year={2021},  
-}
+@ARTICLE{wangCoNoT_TNNLS2022,
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Luo, Yi-Si and Jiang, Tai-Xiang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2022.3217198}
+ }
 </pre>
 </div>
 

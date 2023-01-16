@@ -159,19 +159,37 @@ function toggleBibtex(articleid) {
 </div>
 
 
+* Wei-Hao Wu, Ting-Zhu Huang, Xi-Le Zhao, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial–Spectral Prior", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2022.3228927, 2022. <a href="javascript:toggleBibtex('wu_TGRS2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9992168)
+
+<div id="bib_wu_TGRS2022" class="BibTeX noshow">
+<pre>
+@article{wu_TGRS2022,
+  author={Wu, Wei-Hao and Huang, Ting-Zhu and Zhao, Xi-Le and Wang, Jian-Li and Zheng, Yu-Bang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial–Spectral Prior}, 
+  year={2022},
+  volume={60},
+  number={},
+  pages={1-14},
+  doi={10.1109/TGRS.2022.3228927}}
+</pre>
+</div>
+
+
+
 * Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2021.3106380, 2021. <a href="javascript:toggleBibtex('miaoDS2DP_TGRS2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9524362)
 
 <div id="bib_miaoDS2DP_TGRS2021" class="BibTeX noshow">
 <pre>
 @article{miaoDS2DP_TGRS2021,
-  title={Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors}, 
-  author={Miao, Yu-Chun and Zhao, Xi-Le and Fu, Xiao and Wang, Jian-Li and Zheng, Yu-Bang}, 
-  journal={Transactions on Geoscience and Remote Sensing},
-  volume = { },
-  pages = { },
-  year = {2021},
-  note = {doi: 10.1109/TGRS.2021.3106380},
-}
+  author={Miao, Yu-Chun and Zhao, Xi-Le and Fu, Xiao and Wang, Jian-Li and Zheng, Yu-Bang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors}, 
+  year={2022},
+  volume={60},
+  number={},
+  pages={1-16},
+  doi={10.1109/TGRS.2021.3106380}}
 </pre>
 </div>
 

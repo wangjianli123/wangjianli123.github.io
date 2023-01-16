@@ -53,6 +53,10 @@ function toggleBibtex(articleid) {
 
 ### News
 
+* 2023.1.3: One paper "Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors" has been accepted by _**IEEE Signal Processing Letters**_.
+
+* 2022.12.7: One paper "Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial–Spectral Prior" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
+
 * 2022.10.14: One paper "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion" has been accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_.
 
 * 2021.11.3: One paper "Tensor Completion via Collaborative Sparse and Low-Rank Transforms" has been accepted by _**IEEE Transactions on Computational Imaging**_.

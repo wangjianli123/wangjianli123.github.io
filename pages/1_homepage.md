@@ -49,9 +49,11 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <br>**Jian-Li Wang** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is also a visiting student (advised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/)) with the [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore. Her research interest includes tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning. <br> <br> **Email:** <wangjianli_123@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/)<br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
+| <br>**Jian-Li Wang** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. Her research interest includes tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning. <br> <br> **Email:** <wangjianli_123@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/)<br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
 
 ### News
+
+* 2023.2.28: One paper "Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior" has been accepted by _**IEEE Conference on Computer Vision and Pattern Recognition**_.
 
 * 2023.1.3: One paper "Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors" has been accepted by _**IEEE Signal Processing Letters**_.
 
@@ -98,6 +100,24 @@ function toggleBibtex(articleid) {
   number={},
   pages={1-15},
   doi={10.1109/TNNLS.2022.3217198}
+ }
+</pre>
+</div>
+
+
+
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yu-Chun Miao, "Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors", _IEEE Signal Processing Letters_, vol. 29, pp. 2737-2741, 2022. <a href="javascript:toggleBibtex('wangLRDP_SPL2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/10024411)
+
+<div id="bib_wangLRDP_SPL2022" class="BibTeX noshow">
+<pre>
+@ARTICLE{wangLRDP_SPL2022,
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Miao, Yu-Chun},
+  journal={IEEE Signal Processing Letters}, 
+  title={Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors}, 
+  year={2022},
+  volume={29},
+  pages={2737-2741},
+  doi={10.1109/LSP.2023.3236585}
  }
 </pre>
 </div>

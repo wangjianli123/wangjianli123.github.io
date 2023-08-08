@@ -105,6 +105,23 @@ My current research interests include tensor modeling and computing, high-dimens
 </div>
 
 
+* **Jian-Li Wang**, Xi-Le Zhao, Heng-Chao Li, Ke-Xiang Cao, Jiaqing Miao, Ting-Zhu Huang, "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images", _IEEE Transactions on Geoscience and Remote Sensing_, accepted, 2023. <a href="javascript:toggleBibtex('wangUnDFN_TGRS2023')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/10210592)
+
+<div id="bib_wangUnDFN_TGRS2023" class="BibTeX noshow">
+<pre>
+@ARTICLE{wangUnDFN_TGRS2023,
+  author={Wang, Jian-Li and Zhao, Xi-Le and Li, Heng-Chao and Cao, Ke-Xiang and Miao, Jiaqing and Huang, Ting-Zhu},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TGRS.2023.3303169}
+ }
+</pre>
+</div>
+
 
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yu-Chun Miao, "Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors", _IEEE Signal Processing Letters_, vol. 29, pp. 2737-2741, 2022. <a href="javascript:toggleBibtex('wangLRDP_SPL2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/10024411)
 

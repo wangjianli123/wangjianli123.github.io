@@ -49,7 +49,7 @@ function toggleBibtex(articleid) {
 
 ### Biography
 
-| I am currently working with the [School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. My current research interests include tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning. 
+I am currently working with the [School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. My current research interests include tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning. 
 
 📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
@@ -193,6 +193,21 @@ function toggleBibtex(articleid) {
 </pre>
 </div>
 
+* Xiaole Tang, Xile Zhao, Jun Liu, **Jianli Wang**, Yuchun Miao, Tieyong Zeng, "Uncertainty-Aware Unsupervised Image Deblurring With Deep Residual Prior", in _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023, pp. 9883-9892. <a href="javascript:toggleBibtex('Tang_CVPR2023')" class="textlink">[BibTeX]</a> [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.html)
+
+<div id="bib_Tang_CVPR2023" class="BibTeX noshow">
+<pre>
+@InProceedings{Tang_CVPR2023,
+    author    = {Tang, Xiaole and Zhao, Xile and Liu, Jun and Wang, Jianli and Miao, Yuchun and Zeng, Tieyong},
+    title     = {Uncertainty-Aware Unsupervised Image Deblurring With Deep Residual Prior},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {9883-9892}
+}
+</pre>
+</div>
+
 
 * Wei-Hao Wu, Ting-Zhu Huang, Xi-Le Zhao, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial–Spectral Prior", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2022.3228927, 2022. <a href="javascript:toggleBibtex('wu_TGRS2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9992168)
 
@@ -246,6 +261,21 @@ function toggleBibtex(articleid) {
 </div>
 
 
+* Jia-Yi Li, Jin-Yu Xie, Yi-Si Luo, Xi-Le Zhao, **Jian-Li Wang**, "H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization", _{IEEE Geoscience and Remote Sensing Letters_, doi: 10.1109/LGRS.2023.3294933, 2023. <a href="javascript:toggleBibtex('jiayiH2TF_LGRS2023')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/10181304)
+
+<div id="bib_jiayiH2TF_LGRS2023" class="BibTeX noshow">
+<pre>
+@ARTICLE{jiayiH2TF_LGRS2023,
+  author={Li, Jia-Yi and Xie, Jin-Yu and Luo, Yi-Si and Zhao, Xi-Le and Wang, Jian-Li},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization}, 
+  year={2023},
+  volume={20},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2023.3294933}}
+</pre>
+</div>
 
 ---
 

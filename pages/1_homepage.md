@@ -261,7 +261,7 @@ I am currently working with the [School of Computing and Artificial Intelligence
 </div>
 
 
-* Jia-Yi Li, Jin-Yu Xie, Yi-Si Luo, Xi-Le Zhao, **Jian-Li Wang**, "H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization", _{IEEE Geoscience and Remote Sensing Letters_, doi: 10.1109/LGRS.2023.3294933, 2023. <a href="javascript:toggleBibtex('jiayiH2TF_LGRS2023')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/10181304)
+* Jia-Yi Li, Jin-Yu Xie, Yi-Si Luo, Xi-Le Zhao, **Jian-Li Wang**, "H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization", _IEEE Geoscience and Remote Sensing Letters_, doi: 10.1109/LGRS.2023.3294933, 2023. <a href="javascript:toggleBibtex('jiayiH2TF_LGRS2023')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/10181304)
 
 <div id="bib_jiayiH2TF_LGRS2023" class="BibTeX noshow">
 <pre>

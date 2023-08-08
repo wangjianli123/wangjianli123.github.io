@@ -49,11 +49,13 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <be>I am currently working with the [School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)) from the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China, in 2022.
+| <be>I am currently working with the ([School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)) from the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)), Chengdu, China, in 2022.
 
 My current research interests include tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning. <br> <br> **Email:** <wangjianli_123@163.com> <wangjianli@swjtu.edu.cn>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/)<br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
 
 ### News
+
+* 2023.7.11: One paper "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 * 2023.2.28: One paper "Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior" has been accepted by _**IEEE Conference on Computer Vision and Pattern Recognition**_.
 
@@ -62,10 +64,6 @@ My current research interests include tensor modeling and computing, high-dimens
 * 2022.12.7: One paper "Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial–Spectral Prior" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 * 2022.10.14: One paper "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion" has been accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_.
-
-* 2021.11.3: One paper "Tensor Completion via Collaborative Sparse and Low-Rank Transforms" has been accepted by _**IEEE Transactions on Computational Imaging**_.
-
-* 2021.8.10: One paper "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 
 ---

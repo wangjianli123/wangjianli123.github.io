@@ -53,7 +53,7 @@ function toggleBibtex(articleid) {
 
 📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
-<br> **Email:** <wangjianli_123@163.com>  <wangjianli@swjtu.edu.cn>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/)<br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
+<br> **Email:** <wangjianli_123@163.com>;  <wangjianli@swjtu.edu.cn>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw)  &emsp; [Researchgate](https://www.researchgate.net/profile/Jian-Li-Wang/publications)  &emsp; [GitHub](https://github.com/wangjianli123/)<br><br>| &emsp;![image](https://wangjianli123.github.io/images/jianliwang.jpg)&emsp; |
 
 ### News
 

@@ -70,13 +70,13 @@ I am currently working with the [School of Computing and Artificial Intelligence
 
 ### 2024
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021.</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832) [[Poster]](https://wangjianli123.github.io/images/poster_4.pdf)
+*  Yu-Chun Miao, Xi-Le Zhao, **Jian-Li Wang**, Xiao Fu, Yao Wang, "Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior", _IEEE Transactions on Computational Imaging_, vol. 10, pp. 93-102, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10388408)
 
 
 ### 2023
 
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021.</a> [[PDF]](https://ieeexplore.ieee.org/document/9372832) [[Poster]](https://wangjianli123.github.io/images/poster_4.pdf)
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9372832) [[Poster]](https://wangjianli123.github.io/images/poster_4.pdf)
 
 
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yi-Si Luo, Tai-Xiang Jiang, "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion", _IEEE Transactions on Neural Networks and Learning Systems_, accepted, 2022. <a href="javascript:toggleBibtex('wangCoNoT_TNNLS2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9946011)

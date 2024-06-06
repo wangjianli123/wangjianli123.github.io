@@ -116,22 +116,30 @@ I am currently working with the [School of Computing and Artificial Intelligence
 
 ---
 
-### Experiences 
+### Educations
 
-* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 2019.09-2022.12: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 2017.09-2019.07: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2013-06/2017: Neijiang Normal University; Bachelor student in the School of Mathematical Sciences (Supervisor: Prof. Yongguo Shi)
+* 2013.09-2017.07: Neijiang Normal University; Bachelor student in the School of Mathematical Sciences (Supervisor: Prof. Yongguo Shi)
 
 ---
 
+
+### Fundings
+
+* National Natural Science Foundation of China, Youth Program, Principal Investigator (国家自然科学基金青年项目, 主持), 2024.01-2026.12
+
+* National Natural Science Foundation of China, General Program, Participant (国家自然科学基金面上项目, 参与), 2019.01-2022.12, 2022.01-2025.12, 2024.01-2027.12
+
+
+
+
 ### Awards and Honors
 
-
-*  Academic Scholarship for Ph. D. student, UESTC, 2021
-*  Academic Scholarship for Ph. D. student, UESTC, 2020
-*  Special postgraduate scholarship of science, UESTC, 2019
+*  Academic Rookie (学术新秀), UESTC, 2021
+*  Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2019
 
 ---
 

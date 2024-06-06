@@ -73,199 +73,46 @@ I am currently working with the [School of Computing and Artificial Intelligence
 *  Yu-Chun Miao, Xi-Le Zhao, **Jian-Li Wang**, Xiao Fu, Yao Wang, "Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior", _IEEE Transactions on Computational Imaging_, vol. 10, pp. 93-102, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10388408)
 
 
+
+
+
+
+
 ### 2023
 
+* **Jian-Li Wang**, Xi-Le Zhao, Heng-Chao Li, Ke-Xiang Cao, Jiaqing Miao, Ting-Zhu Huang, "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images", _IEEE Transactions on Geoscience and Remote Sensing_, accepted, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10210592)
+
+*  Xiaole Tang, Xile Zhao, Jun Liu, **Jianli Wang**, Yuchun Miao, Tieyong Zeng, "Uncertainty-Aware Unsupervised Image Deblurring With Deep Residual Prior", in _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023, pp. 9883-9892. [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.html)
+
+* Jia-Yi Li, Jin-Yu Xie, Yi-Si Luo, Xi-Le Zhao, **Jian-Li Wang**, "H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization", _IEEE Geoscience and Remote Sensing Letters_, doi: 10.1109/LGRS.2023.3294933, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10181304)
+
+
+### 2022
+
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yi-Si Luo, Tai-Xiang Jiang, "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion", _IEEE Transactions on Neural Networks and Learning Systems_, accepted, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9946011)
+
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yu-Chun Miao, "Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors", _IEEE Signal Processing Letters_, vol. 29, pp. 2737-2741, 2022. [[PDF]](https://ieeexplore.ieee.org/document/10024411)
+
+* Wei-Hao Wu, Ting-Zhu Huang, Xi-Le Zhao, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial–Spectral Prior", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2022.3228927, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9992168)
+* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2021.3106380, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9524362)
+
+
+### 2021
 
 * **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng, "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", _IEEE Transactions on Image Processing_, vol. 30, pp. 3581-3596, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9372832) [[Poster]](https://wangjianli123.github.io/images/poster_4.pdf)
 
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, Tai-Xiang Jiang, "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2021, pp. 11-16. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9555068)
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yi-Si Luo, Tai-Xiang Jiang, "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion", _IEEE Transactions on Neural Networks and Learning Systems_, accepted, 2022. <a href="javascript:toggleBibtex('wangCoNoT_TNNLS2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9946011)
-
-<div id="bib_wangCoNoT_TNNLS2022" class="BibTeX noshow">
-<pre>
-@ARTICLE{wangCoNoT_TNNLS2022,
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Luo, Yi-Si and Jiang, Tai-Xiang},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-15},
-  doi={10.1109/TNNLS.2022.3217198}
- }
-</pre>
-</div>
-
-
-* **Jian-Li Wang**, Xi-Le Zhao, Heng-Chao Li, Ke-Xiang Cao, Jiaqing Miao, Ting-Zhu Huang, "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images", _IEEE Transactions on Geoscience and Remote Sensing_, accepted, 2023. <a href="javascript:toggleBibtex('wangUnDFN_TGRS2023')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/10210592)
-
-<div id="bib_wangUnDFN_TGRS2023" class="BibTeX noshow">
-<pre>
-@ARTICLE{wangUnDFN_TGRS2023,
-  author={Wang, Jian-Li and Zhao, Xi-Le and Li, Heng-Chao and Cao, Ke-Xiang and Miao, Jiaqing and Huang, Ting-Zhu},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-15},
-  doi={10.1109/TGRS.2023.3303169}
- }
-</pre>
-</div>
-
-
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Yu-Chun Miao, "Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors", _IEEE Signal Processing Letters_, vol. 29, pp. 2737-2741, 2022. <a href="javascript:toggleBibtex('wangLRDP_SPL2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/10024411)
-
-<div id="bib_wangLRDP_SPL2022" class="BibTeX noshow">
-<pre>
-@ARTICLE{wangLRDP_SPL2022,
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Miao, Yu-Chun},
-  journal={IEEE Signal Processing Letters}, 
-  title={Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors}, 
-  year={2022},
-  volume={29},
-  pages={2737-2741},
-  doi={10.1109/LSP.2023.3236585}
- }
-</pre>
-</div>
+* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, doi: 10.1109/TCI.2021.3126232, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9612046)
 
 
 
 
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. <a href="javascript:toggleBibtex('wangRBSUTV_JSTAR2019')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8855071) [[Code]](https://wangjianli123.github.io/codes/code_RBSUTV.zip)
+### 2019
 
-<div id="bib_wangRBSUTV_JSTAR2019" class="BibTeX noshow">
-<pre>
-@article{wangRBSUTV_JSTAR2019,
-  title={Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Huang, Jie and Ma, Tian-Hui and Zheng, Yu-Bang}, 
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  volume={12},
-  number={12},
-  pages={4951-4963},
-  year={2019},  
-}
-</pre>
-</div>
+* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[PDF]](https://ieeexplore.ieee.org/document/8855071) [[Code]](https://wangjianli123.github.io/codes/code_RBSUTV.zip)
 
-
-* **Jian-Li Wang**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen, "A Sheared Low-Rank Model for Oblique Stripe Removal", _Applied Mathematics and Computation_, vol. 360, pp. 167-180, 2019. <a href="javascript:toggleBibtex('wangsheared_AMC2019')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300319302747) [[Code]](https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip)
-
-<div id="bib_wangsheared_AMC2019" class="BibTeX noshow">
-<pre>
-@article{wangsheared_AMC2019,
-  title={A Sheared Low-Rank Model for Oblique Stripe Removal}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Ma, Tian-Hui and Zhao, Xi-Le and Chen, Yong}, 
-  journal={Applied Mathematics and Computation},
-  volume={360},
-  pages={167-180},
-  year={2019},  
-}
-</pre>
-</div>
-
-
-* **Jian-Li Wang**, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, Tai-Xiang Jiang, "Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2021, pp. 11-16. <a href="javascript:toggleBibtex('wangDIP_TR_IGARSS2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/9555068)
-
-<div id="bib_wangDIP_TR_IGARSS2021" class="BibTeX noshow">
-<pre>
-@inproceedings{wangDIP_TR_IGARSS2021,
-  title={Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior}, 
-  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Ji, Teng-Yu and Jiang, Tai-Xiang}, 
-  booktitle={IEEE International Geoscience and Remote Sensing Symposium},
-  volume = { },
-  pages = { },
-  year = {2021},
-  pages={11-16},
-}
-</pre>
-</div>
-
-* Xiaole Tang, Xile Zhao, Jun Liu, **Jianli Wang**, Yuchun Miao, Tieyong Zeng, "Uncertainty-Aware Unsupervised Image Deblurring With Deep Residual Prior", in _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023, pp. 9883-9892. <a href="javascript:toggleBibtex('Tang_CVPR2023')" class="textlink">[BibTeX]</a> [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.html)
-
-<div id="bib_Tang_CVPR2023" class="BibTeX noshow">
-<pre>
-@InProceedings{Tang_CVPR2023,
-    author    = {Tang, Xiaole and Zhao, Xile and Liu, Jun and Wang, Jianli and Miao, Yuchun and Zeng, Tieyong},
-    title     = {Uncertainty-Aware Unsupervised Image Deblurring With Deep Residual Prior},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2023},
-    pages     = {9883-9892}
-}
-</pre>
-</div>
-
-
-* Wei-Hao Wu, Ting-Zhu Huang, Xi-Le Zhao, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial–Spectral Prior", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2022.3228927, 2022. <a href="javascript:toggleBibtex('wu_TGRS2022')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9992168)
-
-<div id="bib_wu_TGRS2022" class="BibTeX noshow">
-<pre>
-@article{wu_TGRS2022,
-  author={Wu, Wei-Hao and Huang, Ting-Zhu and Zhao, Xi-Le and Wang, Jian-Li and Zheng, Yu-Bang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial–Spectral Prior}, 
-  year={2022},
-  volume={60},
-  number={},
-  pages={1-14},
-  doi={10.1109/TGRS.2022.3228927}}
-</pre>
-</div>
-
-
-
-* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, **Jian-Li Wang**, Yu-Bang Zheng, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2021.3106380, 2021. <a href="javascript:toggleBibtex('miaoDS2DP_TGRS2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9524362)
-
-<div id="bib_miaoDS2DP_TGRS2021" class="BibTeX noshow">
-<pre>
-@article{miaoDS2DP_TGRS2021,
-  author={Miao, Yu-Chun and Zhao, Xi-Le and Fu, Xiao and Wang, Jian-Li and Zheng, Yu-Bang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors}, 
-  year={2022},
-  volume={60},
-  number={},
-  pages={1-16},
-  doi={10.1109/TGRS.2021.3106380}}
-</pre>
-</div>
-
-
-* Ben-Zheng Li, Xi-Le Zhao, **Jian-Li Wang**, Yong Chen, Tai-Xiang Jiang, Jun liu, "Tensor Completion via Collaborative Sparse and Low-Rank Transforms", _IEEE Transactions on Computational Imaging_, doi: 10.1109/TCI.2021.3126232, 2021. <a href="javascript:toggleBibtex('liCSLRT_TCI2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9612046)
-
-<div id="bib_liCSLRT_TCI2021" class="BibTeX noshow">
-<pre>
-@article{liCSLRT_TCI2021,
-  title={Tensor Completion via Collaborative Sparse and Low-Rank Transforms}, 
-  author={Li, Ben-Zheng and Zhao, Xi-Le and Wang, Jian-Li and Chen, Yong and Jiang, Tai-Xiang and Liu, Jun}, 
-  journal={IEEE Transactions on Computational Imaging},
-  volume = { },
-  pages = { },
-  year = {2021},
-  note = {doi: 10.1109/TCI.2021.3126232},
-}
-</pre>
-</div>
-
-
-* Jia-Yi Li, Jin-Yu Xie, Yi-Si Luo, Xi-Le Zhao, **Jian-Li Wang**, "H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization", _IEEE Geoscience and Remote Sensing Letters_, doi: 10.1109/LGRS.2023.3294933, 2023. <a href="javascript:toggleBibtex('jiayiH2TF_LGRS2023')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/10181304)
-
-<div id="bib_jiayiH2TF_LGRS2023" class="BibTeX noshow">
-<pre>
-@ARTICLE{jiayiH2TF_LGRS2023,
-  author={Li, Jia-Yi and Xie, Jin-Yu and Luo, Yi-Si and Zhao, Xi-Le and Wang, Jian-Li},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization}, 
-  year={2023},
-  volume={20},
-  number={},
-  pages={1-5},
-  doi={10.1109/LGRS.2023.3294933}}
-</pre>
-</div>
+* **Jian-Li Wang**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen, "A Sheared Low-Rank Model for Oblique Stripe Removal", _Applied Mathematics and Computation_, vol. 360, pp. 167-180, 2019. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300319302747) [[Code]](https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip)
 
 ---
 

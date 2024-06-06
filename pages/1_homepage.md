@@ -59,10 +59,6 @@ I am currently working with the [School of Computing and Artificial Intelligence
 
 * 2023.7.11: One paper "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
-* 2023.2.28: One paper "Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior" has been accepted by _**IEEE Conference on Computer Vision and Pattern Recognition**_.
-
-* 2023.1.3: One paper "Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors" has been accepted by _**IEEE Signal Processing Letters**_.
-
 
 ---
 
@@ -147,13 +143,20 @@ I am currently working with the [School of Computing and Artificial Intelligence
 
 #### Reports
 
-
-
 *  10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](https://wangjianli123.github.io/images/IGRASS2021_1400.pdf)
 
 *  07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, **Online**, [[Slide]](https://wangjianli123.github.io/images/IGRASS2021_1400.pdf)
 
 ---
+
+
+#### Editor and Reviewer
+*  IEEE Transactions on Image Processing (IEEE TIP), Reviewer
+*  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Reviewer
+*  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), Reviewer
+*  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
+*  IEEE Transactions on Computational Imaging (IEEE TCI), Reviewer
+
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ppukccgb3a&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>

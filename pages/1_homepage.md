@@ -55,6 +55,8 @@ I am currently working with the [School of Computing and Artificial Intelligence
 
 ### News
 
+* 2024.7.1: Two papers has been accepted by _**European Conference on Computer Vision (ECCV) 2024**_.
+
 * 2024.1.11: One paper "Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior" has been accepted by _**IEEE Transactions on Computational Imaging**_.
 
 * 2023.7.11: One paper "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.

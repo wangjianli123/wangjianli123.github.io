@@ -1,0 +1,7 @@
+@article{zhou2025frequency,
+  title={Frequency-Aware Implicit Neural Representation for Multi-Dimensional Data Recovery},
+  author={Zhou, Ting-Wei and Zhao, Xi-Le and Wu, Wei-Hao and Wang, Jian-Li and Luo, Yi-Si},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
+}

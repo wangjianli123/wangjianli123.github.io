@@ -1,0 +1,9 @@
+@article{wang2019rewighted,
+  title={Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping},
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Huang, Jie and Ma, Tian-Hui and Zheng, Yu-Bang},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={12},
+  number={12},
+  pages={4951-4963},
+  year={2019}
+}

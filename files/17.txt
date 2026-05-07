@@ -1,0 +1,8 @@
+@article{wang2019sheared,
+  title={A sheared low-rank model for oblique stripe removal},
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Ma, Tian-Hui and Zhao, Xi-Le and Chen, Yong},
+  journal = {Applied Mathematics and Computation},
+  volume = {360},
+  pages = {167-180},
+  year={2019}
+}

@@ -1,0 +1,9 @@
+@article{wang2023unsupervised,
+  title={Unsupervised Domain Factorization Network for Thick Cloud Removal of Multitemporal Remotely Sensed Images},
+  author={Wang, Jian-Li and Zhao, Xi-Le and Li, Heng-Chao and Cao, Ke-Xiang and Miao, Jiaqing and Huang, Ting-Zhu},</br>
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={2023},
+  number={},
+  pages={1-12},
+  year={2023}
+}

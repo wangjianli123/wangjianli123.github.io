@@ -1,0 +1,9 @@
+@article{wang2022complex,
+  title={Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors},
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Miao, Yu-Chun},
+  journal={IEEE Signal Processing Letters},
+  volume={29},
+  number={},
+  pages={2737-2741},
+  year={2022}
+}

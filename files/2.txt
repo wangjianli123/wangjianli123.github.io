@@ -1,0 +1,8 @@
+@inproceedings{li2024superpixel,
+  title={Superpixel-informed implicit neural representation for multi-dimensional data},
+  author={Li, Jiayi and Zhao, Xile and Wang, Jianli and Wang, Chao and Wang, Min},
+  booktitle={European Conference on Computer Vision},
+  pages={258--276},
+  year={2024},
+  organization={Springer}
+}

@@ -1,0 +1,9 @@
+@article{wang2022conot,
+  title={CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion},
+  author={Wang, Jian-Li and Huang, Ting-Zhu and Zhao, Xi-Le and Luo, Yi-Si and Jiang, Tai-Xiang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={35},
+  number={7},
+  pages={8969-8983},
+  year={2022}
+}

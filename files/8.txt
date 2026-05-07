@@ -1,0 +1,9 @@
+@article{li2023h2tf,
+  title={H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization},
+  author={Li, Jia-Yi and Xie, Jin-Yu and Luo, Yi-Si and Zhao, Xi-Le and Wang, Jian-Li},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={20},
+  number={},
+  pages={1-5},
+  year={2023}
+}

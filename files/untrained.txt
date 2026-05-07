@@ -1,0 +1,9 @@
+@article{wu2023untrained,
+  title={Untrained low-rank neural network prior for multi-dimensional image recovery},
+  author={Wu, Wei-Hao and Huang, Ting-Zhu and Zhang, Hao and Wang, Jian-Li and Zhao, Xi-Le},
+  journal={IEEE Signal Processing Letters},
+  volume={30},
+  pages={1647--1651},
+  year={2023},
+  publisher={IEEE}
+}

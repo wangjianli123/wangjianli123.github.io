@@ -1,0 +1,8 @@
+@inproceedings{wu2024hyperspectral,
+  title={Hyperspectral Image Denoising via Generalized Kronecker Decomposition-Based Subspace Representation},
+  author={Wu, Wei-Hao and Huang, Ting-Zhu and Wang, Min and Chen, Yong and Wang, Jian-Li and Han, Zhi-Long and Li, Jia-Yi},
+  booktitle={IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={7622--7625},
+  year={2024},
+  organization={IEEE}
+}

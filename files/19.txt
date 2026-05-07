@@ -1,0 +1,7 @@
+@article{li2025low,
+  title={Low-Rank Regularized Correlation Filter for Hyperspectral Video Object Tracking},
+  author={Li, Na-Na and Li, Heng-Chao and Wang, Jian-Li and Geng, Xiong-Fei and Pan, Jie},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2025},
+  publisher={IEEE}
+}

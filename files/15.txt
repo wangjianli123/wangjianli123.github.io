@@ -1,0 +1,9 @@
+@article{li2021completion,
+  title={Tensor Completion Via Collaborative Sparse and Low-Rank Transforms},
+  author={Li, Ben-Zheng and Zhao, Xi-Le and Wang, Jian-Li and Chen, Yong and Jiang, Tai-Xiang and Liu, Jun},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  volume={7},
+  number={},
+  pages={1289-1303},
+  year={2021}
+}

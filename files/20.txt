@@ -1,0 +1,7 @@
+@article{zhou2025dtr,
+  title={DTR: A Unified Deep Tensor Representation Framework for Multimedia Data Recovery},
+  author={Zhou, Ting-Wei and Zhao, Xi-Le and Wang, Jian-Li and Luo, Yi-Si and Wang, Min and Bai, Xiao-Xuan and Yan, Hong},
+  journal={IEEE Transactions on Multimedia},
+  year={2025},
+  publisher={IEEE}
+}

@@ -1,0 +1,9 @@
+@article{miao2024snapshot,
+title = {Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior},
+author = {Miao, Yu-Chun and Zhao, Xi-Le and Wang, Jian-Li and Fu, Xiao and Wang, Yao},
+journal={IEEE Transactions on Computational Imaging},
+volume={10},
+number={},
+pages={93-102},
+year={2024}
+}

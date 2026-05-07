@@ -1,0 +1,7 @@
+@inproceedings{tang2023uncertainty,
+  title={Uncertainty-Aware Unsupervised Image Deblurring With Deep Residual Prior},
+  author={Tang, Xiaole and Zhao, Xile and Liu, Jun and Wang, Jianli and Miao, Yuchun an},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern},
+  pages={9883-9892},
+  year={2023}
+}

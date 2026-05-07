@@ -1,9 +1,9 @@
 {% include base_path %}
 
-{% if post.preview %}
-  {% capture preview %}{{ post.preview }}{% endcapture %}
-{% else %}
-  {% assign preview = site.teaser %}
+{% if post.image %}
+  <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+{% elsif post.preview %}
+  <img src="{{ post.preview | relative_url }}" alt="{{ post.title }}">
 {% endif %}
 
 <!-- add default prefix -->

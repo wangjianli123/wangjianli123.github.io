@@ -50,3 +50,14 @@
 .pub-link:hover {
   text-decoration: none !important;
 }
+
+.archive__item a,
+.archive__item a:visited,
+.archive__item a:hover,
+.page__content a,
+.page__content a:visited,
+.page__content a:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}

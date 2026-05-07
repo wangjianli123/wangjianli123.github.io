@@ -56,22 +56,28 @@
           {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         </p>
 
-        {% if post.project_page %}
-          <a class="mr-2 text-decoration-none" href="{{ post.project_page }}">
-            <i class="far fa-file-alt" aria-hidden="true"></i> Project Page &nbsp;
-          </a>
-        {% else %}
-          <a class="mr-2 text-decoration-none" href="{{ base_path }}{{ post.url }}">
-            <i class="far fa-file-alt" aria-hidden="true"></i> Project Page &nbsp;
+        {% if post.project_url %}
+  <a href="{{ post.project_url }}" target="_blank">
+    <i class="fa fa-file-text-o" aria-hidden="true"></i> Project Page
+  </a>
+{% endif %}
+
+        {% if post.official_url %}
+          <a href="{{ post.official_url }}" target="_blank">
+            <i class="fa fa-external-link" aria-hidden="true"></i> Publisher's Version
           </a>
         {% endif %}
-
-        {% if post.preprint_url %}
-          <a class="mr-2 text-decoration-none" href="{{ post.preprint_url }}">
-            <i class="far fa-file-pdf" aria-hidden="true"></i> PDF &nbsp;
+        
+        {% if post.bibtex %}
+          <a href="javascript:void(0);" onclick="var x=document.getElementById('bibtex-{{ post.slug }}'); x.style.display=(x.style.display==='none')?'block':'none';">
+            <i class="fa fa-quote-left" aria-hidden="true"></i> BibTeX
           </a>
+        
+          <div id="bibtex-{{ post.slug }}" style="display:none; margin-top:10px;">
+        <pre style="background:#f5f5f5; padding:12px; font-size:13px; white-space:pre-wrap;">{{ post.bibtex }}</pre>
+          </div>
         {% endif %}
-
+        
         {% if post.arxiv_url %}
           <a class="mr-2 text-decoration-none" href="{{ post.arxiv_url }}">
             <i class="fas fa-external-link-alt" aria-hidden="true"></i> ArXiv Version &nbsp;

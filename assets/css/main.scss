@@ -61,3 +61,30 @@
   border-bottom: none !important;
   box-shadow: none !important;
 }
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 28px;
+}
+
+.pub-thumb {
+  width: 130px;
+  flex: 0 0 130px;
+  margin-top: 0;
+}
+
+.pub-thumb img {
+  width: 130px;
+  height: 95px;
+  object-fit: cover;
+  display: block;
+}
+
+.pub-info {
+  flex: 1;
+}
+
+.pub-title {
+  margin-top: 0 !important;
+}

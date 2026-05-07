@@ -1,26 +1,22 @@
 {% include base_path %}
 
+<!-- 图片路径 -->
 {% if post.image %}
-  <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width:125px; height:auto; object-fit:cover;">
+  {% assign preview = post.image %}
 {% elsif post.preview %}
-  <img src="{{ post.preview | relative_url }}" alt="{{ post.title }}" style="width:125px; height:auto; object-fit:cover;">
+  {% assign preview = post.preview %}
 {% endif %}
 
-<!-- add default prefix -->
 {% if preview contains "://" %}
   {% assign preview = preview %}
 {% else %}
-  {% assign preview = preview | prepend: "/images/" | prepend: base_path %}
+  {% assign preview = preview | prepend: base_path %}
 {% endif %}
 
-<!-- {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %} -->
-
+<!-- 标题 -->
 {% assign title = post.title | remove: "<br>" | markdownify %}
 
+<!-- venue -->
 {% if post.venue contains "@" %}
   {% assign venue_key = post.venue | split: "@" | last %}
   {% assign venue = site.data.venues[venue_key].name %}
@@ -28,88 +24,98 @@
   {% assign venue = post.venue %}
 {% endif %}
 
+<!-- 作者 -->
 {% assign authors = post.authors | replace: "Jian-li Wang", "<b>Jian-li Wang</b>" %}
-{% assign bib_id = post.slug | default: post.title | slugify %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item mb-2" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <div class="row col-12">
+    <!-- 外层 -->
+    <div style="display:flex; align-items:flex-start; gap:24px;">
 
-      <div class=".archive__item-teaser col-6 col-md-2 float-md-left">
-        <img src="{{ preview }}" alt="">
+      <!-- 左侧图片 -->
+      {% if preview %}
+      <div style="flex:0 0 130px;">
+        <img src="{{ preview }}"
+             alt=""
+             style="width:130px;
+                    height:95px;
+                    object-fit:cover;
+                    border-radius:4px;
+                    margin-top:4px;">
       </div>
+      {% endif %}
 
-      <div class="col-12 col-md-10 text-md-left">
+      <!-- 右侧文字 -->
+      <div style="flex:1;">
 
-        <h6 class="archive__item-title text-decoration-none" itemprop="headline">
+        <!-- 标题 -->
+        <h4 class="archive__item-title"
+            style="margin-top:0; margin-bottom:8px;"
+            itemprop="headline">
           {{ title }}
-        </h6>
+        </h4>
 
-        <p class="archive__item-content fs-6">
+        <!-- 作者 -->
+        <p style="margin-bottom:4px; font-size:1.05rem;">
           {{ authors }}
-          <br/>
-          <i>{{ venue }}</i>, 
-          {% if post.award %}
-            <b style="color:coral">{{ post.award }}</b>,
-          {% endif %}
-          {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         </p>
 
-        {% if post.project_url %}
-  <a href="{{ post.project_url }}" target="_blank">
-    <i class="fa fa-file-text-o" aria-hidden="true"></i> Project Page
-  </a>
-{% endif %}
+        <!-- venue -->
+        <p style="margin-bottom:8px; font-size:1.02rem;">
+          <i>{{ venue }}</i>,
+          {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        </p>
 
-        {% if post.official_url %}
-          <a href="{{ post.official_url }}" target="_blank">
-            <i class="fa fa-external-link" aria-hidden="true"></i> Publisher's Version
-          </a>
-        {% endif %}
-        
-        {% if post.bibtex %}
-          <a href="javascript:void(0);" onclick="var x=document.getElementById('bibtex-{{ post.slug }}'); x.style.display=(x.style.display==='none')?'block':'none';">
-            <i class="fa fa-quote-left" aria-hidden="true"></i> BibTeX
-          </a>
-        
-          <div id="bibtex-{{ post.slug }}" style="display:none; margin-top:10px;">
-        <pre style="background:#f5f5f5; padding:12px; font-size:13px; white-space:pre-wrap;">{{ post.bibtex }}</pre>
-          </div>
-        {% endif %}
-        
-        {% if post.arxiv_url %}
-          <a class="mr-2 text-decoration-none" href="{{ post.arxiv_url }}">
-            <i class="fas fa-external-link-alt" aria-hidden="true"></i> ArXiv Version &nbsp;
-          </a>
-        {% endif %}
+        <!-- 链接 -->
+        <div>
 
-        {% if post.code %}
-          <a class="mr-2 text-decoration-none" href="{{ post.code }}">
-            <i class="fa-brands fa-github" aria-hidden="true"></i> Code &nbsp;
-          </a>
-        {% endif %}
+          {% if post.official_url %}
+            <a href="{{ post.official_url }}"
+               target="_blank"
+               style="text-decoration:none; margin-right:14px;">
+              <i class="fa fa-external-link" aria-hidden="true"></i>
+              Publisher's Version
+            </a>
+          {% endif %}
 
-        {% if post.blog %}
-          <a class="mr-2 text-decoration-none" href="{{ post.blog }}">
-            <i class="fas fa-external-link-alt" aria-hidden="true"></i> Blog &nbsp;
-          </a>
-        {% endif %}
+          {% if post.bibtex %}
+            <a href="javascript:void(0);"
+               onclick="toggleBibtex('{{ post.slug }}')"
+               style="text-decoration:none;">
+              <i class="fa fa-quote-left" aria-hidden="true"></i>
+              BibTeX
+            </a>
 
-        <!-- {% if post.bibtex %}
-          <a class="mr-2 text-decoration-none" href="javascript:void(0);" data-clipboard-text="{{ post.bibtex }}"
-            data-toggle="popover"
-            data-content="Copied!" 
-            data-delay="{&quot;show&quot;:0,&quot;hide&quot;:1000}" 
-            data-trigger="focus" data-original-title title
-          >
-            <i class="fas fa-quote-left" aria-hidden="true"></i> Copy Bibtex &nbsp;
-          </a>
-        {% endif %} -->
+            <div id="bibtex-{{ post.slug }}"
+                 style="display:none; margin-top:12px;">
 
-      </div>  
+<pre style="background:#f5f5f5;
+padding:12px;
+font-size:13px;
+border-radius:4px;
+overflow-x:auto;">{{ post.bibtex }}</pre>
+
+            </div>
+          {% endif %}
+
+        </div>
+
+      </div>
 
     </div>
 
   </article>
 </div>
+
+<script>
+function toggleBibtex(id) {
+  var box = document.getElementById("bibtex-" + id);
+
+  if (box.style.display === "none") {
+    box.style.display = "block";
+  } else {
+    box.style.display = "none";
+  }
+}
+</script>

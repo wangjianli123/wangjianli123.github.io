@@ -42,3 +42,11 @@
 
 /* Custom enhancements */
 @import "bibtex-copy";
+.pub-link {
+  text-decoration: none !important;
+  margin-right: 12px;
+}
+
+.pub-link:hover {
+  text-decoration: none !important;
+}

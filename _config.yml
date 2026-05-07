@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JianLi Wang (王检利) / Homepage"
+title                    : "Jian-Li Wang (王检利) / Homepage"
 title_separator          : "-"
-name                     : &name "JianLi Wang"
+name                     : &name "Jian-Li Wang"
 description              : &description "personal description"
-url                      : https://wangjianli123.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wangjianli123.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wilsonCernWq/wilsonCernWq.github.io"
+repository               : "wangjianli123/wangjianli123.github.io"
 teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter wilson_over
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -79,16 +79,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qi Wu"
+  name             : "Jianli Wang"
   avatar           : "profile.png"
-  bio              : "Sr. Research Scientist"
+  bio              : "Associate Professor"
   location         : # "US"
-  employer         : "NVIDIA"
-  employer_url     : "https://research.nvidia.com/labs/sil"
+  employer         : 
+  employer_url     : #"https://research.nvidia.com/labs/sil"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=I2hvxPUAAAAJ&hl=en"
-  email            : "qiwu@nvidia.com"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ"
+  email            : "wangjianli_123@163.com&wangjianli@swjtu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Jian-Li-Wang"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wilsonCernWq"
+  github           : "wangjianli123"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "qi-wu-10088b5a"
-  orcid            : "https://orcid.org/0000-0003-0342-9366"
+  linkedin         : #"qi-wu-10088b5a"
+  orcid            : "https://orcid.org/0000-0003-4774-4894"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : #twitter
   vine             :
   weibo            :
   xing             :

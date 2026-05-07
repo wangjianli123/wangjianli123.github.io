@@ -12,7 +12,7 @@ author_profile: true
 {% for pub in pubs %}
   {% assign pub_year = pub.date | date: "%Y" %}
   {% if pub_year != current_year %}
-    <h2>{{ pub_year }}</h2>
+   {{ pub_year }}
     {% assign current_year = pub_year %}
   {% endif %}
 

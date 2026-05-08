@@ -7,12 +7,17 @@ author_profile: true
 <style>
 @media (min-width: 1024px) {
   .sidebar {
+    float: left !important;
     width: 220px !important;
+    margin-left: 0 !important;
+    padding-right: 30px !important;
   }
 
   .page {
+    float: left !important;
     width: calc(100% - 260px) !important;
-    margin-left: 260px !important;
+    margin-left: 0 !important;
+    padding-left: 30px !important;
     padding-right: 0 !important;
   }
 

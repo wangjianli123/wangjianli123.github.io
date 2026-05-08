@@ -72,7 +72,6 @@ My current research interests include tensor modeling and computing, high-dimens
 
 ## Fundings {#fundings}
 
-这里写项目基金。
 
 - 国家自然科学基金青年项目, 2024.01-2026.12
 - 四川省自然科学基金青年项目, 2023.01-2024.12
@@ -80,6 +79,6 @@ My current research interests include tensor modeling and computing, high-dimens
 - 数据恢复四川省重点实验室开放课题重点项目, 2024.06-2026.06
 - 中央高校基本科研业务项目, 2023.01-2024.12
 
-## Acadenic Activities
+## activities
 - 10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](../images/IGRASS2021_1400.pdf)
 - 07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, **Online**, [[Slide]](../images/IGRASS2021_1400.pdf)

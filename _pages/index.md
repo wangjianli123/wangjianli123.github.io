@@ -6,8 +6,13 @@ author_profile: true
 ---
 <style>
 @media (min-width: 1024px) {
+  .sidebar {
+    width: 220px !important;
+  }
+
   .page {
-    width: 88% !important;
+    width: calc(100% - 260px) !important;
+    margin-left: 260px !important;
     padding-right: 0 !important;
   }
 

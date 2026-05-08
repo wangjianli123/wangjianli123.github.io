@@ -4,7 +4,19 @@ title: "Homepage"
 permalink: /
 author_profile: true
 ---
+<style>
+@media (min-width: 1024px) {
+  .page {
+    width: 78% !important;
+    padding-right: 0 !important;
+  }
 
+  .page__inner-wrap,
+  .page__content {
+    max-width: none !important;
+  }
+}
+</style>
 ## About Me {#about}
 
 I am currently working with the [School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022.

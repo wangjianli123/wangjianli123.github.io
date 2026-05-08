@@ -107,7 +107,9 @@ overflow-x:auto;">{{ post.bibtex }}</pre>
 
   </article>
 </div>
-
+<p style="margin-bottom:4px; font-size:1.05rem;">
+  {{ post.authors | markdownify | remove: "<p>" | remove: "</p>" }}
+</p>
 <script>
 function toggleBibtex(id) {
   var box = document.getElementById("bibtex-" + id);

@@ -8,7 +8,7 @@ author_profile: true
 @media (min-width: 1024px) {
   .sidebar {
     float: left !important;
-    width: 220px !important;
+    width: 240px !important;
     margin-left: 0 !important;
     padding-right: 30px !important;
   }

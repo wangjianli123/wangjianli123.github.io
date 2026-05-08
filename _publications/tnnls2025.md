@@ -1,6 +1,6 @@
 ---
 title: "Multimodal Quaternion Representation Network for Multisource Remote Sensing Data Classification"
-authors: "Yu-Le Wei, Heng-Chao Li, **Jian-Li Wang**, Yu-Bang Zheng, Jie Pan, Qian Du"
+authors: "Yu-Le Wei, Heng-Chao Li, <b>Jian-Li Wang</b>, Yu-Bang Zheng, Jie Pan, Qian Du"
 venue: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025, vol 37"
 official_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11177249"
 image: "files/Multimodal Quaternion Representation Network for Multisource Remote Sensing Data Classification.png"

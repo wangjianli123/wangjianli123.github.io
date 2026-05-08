@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Homepage"
+title: ""
 permalink: /
 author_profile: true
 ---
@@ -44,8 +44,6 @@ My current research interests include tensor modeling and computing, high-dimens
 - 2024.7.1: Two papers have been accepted by **European Conference on Computer Vision (ECCV) 2024**.
 - 2024.1.11: One paper "Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior" has been accepted by **IEEE Transactions on Computational Imaging**.
 - 2023.7.11: One paper "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images" has been accepted by **IEEE Transactions on Geoscience and Remote Sensing**.
-
-## Publications {#publications}
 
 ## Publications {#publications}
 

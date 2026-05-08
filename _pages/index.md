@@ -7,7 +7,7 @@ author_profile: true
 <style>
 @media (min-width: 1024px) {
   .page {
-    width: 78% !important;
+    width: 85% !important;
     padding-right: 0 !important;
   }
 

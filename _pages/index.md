@@ -80,5 +80,5 @@ My current research interests include tensor modeling and computing, high-dimens
 - 中央高校基本科研业务项目, 2023.01-2024.12
 
 ## Academic Activities {#activities}
-- 10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](../images/IGRASS2021_1400.pdf)
+- 10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](../images/poster_4.pdf)
 - 07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, **Online**, [[Slide]](../images/IGRASS2021_1400.pdf)

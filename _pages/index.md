@@ -10,7 +10,7 @@ author_profile: true
     float: left !important;
     width: 240px !important;
     margin-left: 0 !important;
-    padding-right: 30px !important;
+    padding-right: 10px !important;
   }
 
   .page {

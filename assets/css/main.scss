@@ -90,13 +90,15 @@
 }
 /* 调整主页正文宽度 */
 .layout--single .page {
-  width: 100%;
+  width: calc(100% - 260px) !important;
+  max-width: 1100px !important;
+  padding-right: 0 !important;
 }
 
 .layout--single .page__inner-wrap {
-  max-width: 980px;
+  max-width: 1100px !important;
 }
 
 .layout--single .page__content {
-  max-width: 980px;
+  max-width: 1100px !important;
 }

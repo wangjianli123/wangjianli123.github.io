@@ -1,22 +1,21 @@
-# main links links
 main:
   - title: "Home"
-    url: /#about/
-    
+    url: "/#about"
+
   - title: "About Me"
-    url: /#about/
+    url: "/#about"
 
   - title: "News"
-    url: /#news/
+    url: "/#news"
 
   - title: "Publications"
-    url: /#publications/
+    url: "/#publications"
 
   - title: "Services"
-    url: /#services/
-  
+    url: "/#services"
+
   - title: "Fundings"
-    url: /#fundings/
-  
-  - title: "Academic Activites"
-    url: /#Academic Activites/
+    url: "/#fundings"
+
+  - title: "Academic Activities"
+    url: "/#activities"

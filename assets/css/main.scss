@@ -88,3 +88,15 @@
 .pub-title {
   margin-top: 0 !important;
 }
+/* 调整主页正文宽度 */
+.layout--single .page {
+  width: 100%;
+}
+
+.layout--single .page__inner-wrap {
+  max-width: 980px;
+}
+
+.layout--single .page__content {
+  max-width: 980px;
+}

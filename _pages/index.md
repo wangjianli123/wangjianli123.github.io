@@ -6,18 +6,19 @@ author_profile: true
 ---
 <style>
 @media (min-width: 1024px) {
+
   .sidebar {
     float: left !important;
-    width: 240px !important;
+    width: 180px !important;
     margin-left: 0 !important;
     padding-right: 10px !important;
   }
 
   .page {
     float: left !important;
-    width: calc(100% - 260px) !important;
+    width: calc(100% - 200px) !important;
     margin-left: 0 !important;
-    padding-left: 30px !important;
+    padding-left: 20px !important;
     padding-right: 0 !important;
   }
 
@@ -25,6 +26,7 @@ author_profile: true
   .page__content {
     max-width: none !important;
   }
+
 }
 </style>
 ## About Me {#about}

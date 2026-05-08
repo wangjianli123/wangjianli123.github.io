@@ -23,7 +23,22 @@ My current research interests include tensor modeling and computing, high-dimens
 
 ## Publications {#publications}
 
-这里写论文。
+## Publications {#publications}
+
+{% include base_path %}
+
+{% assign current_year = "" %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
+{% for post in pubs %}
+{% assign post_year = post.date | date: "%Y" %}
+{% if post_year != current_year %}
+<h2>{{ post_year }}</h2>
+{% assign current_year = post_year %}
+{% endif %}
+
+{% include archive-single-publication.html %}
+{% endfor %}
 
 ## Services {#services}
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian-Li Wang (王检利) / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jian-Li Wang"
 description              : &description "personal description"

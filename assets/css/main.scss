@@ -110,4 +110,9 @@
 .layout--single .page__content {
   max-width: none !important;
 }
-
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: white;
+}

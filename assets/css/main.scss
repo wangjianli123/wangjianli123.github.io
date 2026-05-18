@@ -96,6 +96,14 @@
   }
 }
 
+.author__name {
+    text-align: center;
+}
+
+.author__bio {
+    text-align: center;
+}
+
 @media (min-width: 64em) {
   .layout--single .page {
     width: 75% !important;

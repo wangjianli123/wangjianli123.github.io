@@ -1,9 +1,9 @@
 main:
-  - title: "Home"
-    url: "/#about"
+  # - title: "Home"
+  #   url: "/#about"
 
-  - title: "About Me"
-    url: "/#about"
+  # - title: "About Me"
+  #   url: "/#about"
 
   - title: "News"
     url: "/#news"
@@ -17,5 +17,5 @@ main:
   - title: "Fundings"
     url: "/#fundings"
 
-  - title: "Academic Activities"
+  - title: "Activities"
     url: "/#activities"

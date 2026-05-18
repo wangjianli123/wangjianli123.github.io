@@ -116,3 +116,10 @@
   z-index: 1000;
   background: white;
 }
+
+.container {
+    max-width: 1100px;   /* 和内容一致 */
+    margin: 0 auto;      /* 居中 */
+    padding-left: 0;     /* 关键：去掉左边距 */
+    padding-right: 0;
+}

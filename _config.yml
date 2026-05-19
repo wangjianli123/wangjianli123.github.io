@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "<center>Jian-Li Wang</center> <center>(王检利)</center>"
   avatar           : "profile.png"
-  bio              : "<center>Associate Professor at Southwest Jiaotong University (SWJTU)<center>"
+  bio              : "<center>Associate Professor<center>"
   location         : # "US"
   employer         : 
   employer_url     : #"https://research.nvidia.com/labs/sil"

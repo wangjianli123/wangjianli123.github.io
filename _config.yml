@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian-Li Wang (王检利)"
+  name             : "Jian-Li Wang<br>(王检利)"
   avatar           : "profile.png"
-  bio              : "<center>Associate Professor<center>"
+  bio              : "Associate Professor"
   location         : # "US"
   employer         : 
   employer_url     : #"https://research.nvidia.com/labs/sil"

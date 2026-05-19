@@ -154,9 +154,43 @@ html {
   padding-left: 60px !important;
 }
 
-/* 正文区域保持你之前的宽度设置 */
-.page__inner-wrap {
-  max-width: none !important;
-  padding-left: 60px !important;
-  padding-right: 40px !important;
+<style>
+@media (min-width: 1024px) {
+
+  .masthead__inner-wrap {
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  #main {
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .sidebar {
+    float: left !important;
+    width: 230px !important;
+    margin-left: 0 !important;
+    padding-right: 30px !important;
+  }
+
+  .page {
+    float: left !important;
+    width: calc(100% - 260px) !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .page__inner-wrap,
+  .page__content {
+    max-width: none !important;
+  }
 }
+</style>

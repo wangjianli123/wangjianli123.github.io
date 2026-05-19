@@ -1,4 +1,4 @@
-# Qi Wu — academic homepage
+# Jian-Li Wang — academic homepage
 
 A GitHub Pages site for an academic profile and publications. This repository is based on the [AcademicPages Jekyll theme](https://github.com/academicpages/academicpages.github.io/) (MIT License). See `LICENSE.md`.
 

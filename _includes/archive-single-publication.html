@@ -78,14 +78,6 @@
               Publisher's Version
             </a>
           {% endif %}
-          {% if post.official_url %}
-  <a href="{{ post.official_url }}"
-     target="_blank"
-     style="text-decoration:none; margin-right:14px;">
-    <i class="fa fa-external-link" aria-hidden="true"></i>
-    Publisher's Version
-  </a>
-{% endif %}
 
 {% if post.arxiv_url %}
   <a href="{{ post.arxiv_url }}"
@@ -96,9 +88,7 @@
   </a>
 {% endif %}
 
-{% if post.bibtex %}
-  ...
-{% endif %}
+
           {% if post.bibtex %}
             <a href="javascript:void(0);"
                onclick="toggleBibtex('{{ post.slug }}')"

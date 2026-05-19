@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "<center>Yu-Bang Zheng</center> <center>(郑玉棒)</center>"
+  name             : "<center>Jian-Li Wang</center> <center>(王检利)</center>"
   avatar           : "profile.png"
-  bio              : "Associate Professor"
+  bio              : "<center>Associate Professor at Southwest Jiaotong University (SWJTU)<center>"
   location         : # "US"
   employer         : 
   employer_url     : #"https://research.nvidia.com/labs/sil"

@@ -148,3 +148,10 @@ html {
 .page__content h3 {
     font-size: 1.1rem;
 }
+
+.masthead__inner-wrap,
+.page__inner-wrap {
+  max-width: none !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}

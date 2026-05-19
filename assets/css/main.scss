@@ -149,9 +149,14 @@ html {
     font-size: 1.1rem;
 }
 
-.masthead__inner-wrap,
+/* 保持导航居中，但调整对齐 */
+.masthead__inner-wrap {
+  padding-left: 60px !important;
+}
+
+/* 正文区域保持你之前的宽度设置 */
 .page__inner-wrap {
   max-width: none !important;
-  padding-left: 30px !important;
-  padding-right: 30px !important;
+  padding-left: 60px !important;
+  padding-right: 40px !important;
 }

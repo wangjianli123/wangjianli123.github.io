@@ -36,13 +36,16 @@
       <!-- 左侧图片 -->
       {% if preview %}
       <div style="flex:0 0 130px;">
-        <img src="{{ preview }}"
-             alt=""
-             style="width:130px;
-                    height:95px;
-                    object-fit:cover;
-                    border-radius:4px;
-                    margin-top:4px;">
+       <img
+          src="{{ post.teaser }}"
+          alt=""
+          style="
+            width: 160px;
+            height: auto;
+            object-fit: contain;
+            border: 1px solid #ddd;
+          "
+        >
       </div>
       {% endif %}
 

@@ -36,16 +36,22 @@
       <!-- 左侧图片 -->
       {% if preview %}
       <div style="flex:0 0 130px;">
-      <img
+     <img
         src="{{ preview }}"
         alt=""
         style="
           width: 160px;
           height: auto;
           object-fit: contain;
-          border: 1px solid #ddd;
-        "
-      >
+      
+          border: 3px solid #cfcfcf;
+          padding: 10px;
+          background: white;
+      
+          border-radius: 8px;
+          box-sizing: border-box;
+  "
+>
       </div>
       {% endif %}
 

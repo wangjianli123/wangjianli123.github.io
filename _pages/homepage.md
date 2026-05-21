@@ -47,17 +47,17 @@ author_profile: true
   }
   /* 调整段落间距 */
   p {
-      margin-top: 0.3rem;   /* 上间距 */
-      margin-bottom: 0.3rem; /* 下间距 */
-      line-height: 1.0;     /* 行高，可以根据需要调整 */
+      margin-top: 0.5rem;   /* 上间距 */
+      margin-bottom: 0.5rem; /* 下间距 */
+      line-height: 1.3;     /* 行高，可以根据需要调整 */
+  }
+
+  .page__content p {
+  margin-bottom: 0.8rem !important;
   }
   
-  /* 可针对新闻、介绍段落单独控制 */
-  #news p,
-  #publications p {
-      margin-top: 0.3rem;
-      margin-bottom: 0.3rem;
-  }
+
+ 
 
 }
 </style>
@@ -107,7 +107,7 @@ My current research interests include tensor modeling and computing, high-dimens
 - IEEE Transactions on Computational Imaging (IEEE TCI), Reviewer
 -->
 <h2 id="educations" class="section-title"> 🎓 Educations </h2> 
-- 2024.09-2025.03:Hong Kong Baptist University, Research Assistant in Faculty of Science 
+- 2024.09-2025.03:Hong Kong Baptist University, Research Assistant in Faculty of Science Supervisor:[NG, Michael Kwok-Po](https://www.math.hkbu.edu.hk/~mng)
 - 2019.09-2022.06:University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics Supervisor:[Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
 - 2017.09-2019.06：University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics Supervisor:[Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
 - 2013.09-2017.06：Neijiang Normal University; Bachelor student in Applied Mathematics

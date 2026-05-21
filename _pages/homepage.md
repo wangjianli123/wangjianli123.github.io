@@ -14,6 +14,22 @@ author_profile: true
     padding-right: 10px !important;
   }
 
+  .section-title {
+  font-size: 2rem;
+  font-weight: 700;
+
+  color: #444;
+
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+
+  padding-bottom: 0.4rem;
+
+  border-bottom: 1px solid #e5e5e5;
+
+  letter-spacing: -0.5px;
+  }
+
   .page {
     float: left !important;
     width: calc(100% - 200px) !important;
@@ -38,13 +54,17 @@ My current research interests include tensor modeling and computing, high-dimens
 
 📧 E-mail: wangjianli_123@163.com, wangjianli@swjtu.edu.cn &emsp; 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ) &emsp; 🏫 [Faculty Homepage](https://faculty.swjtu.edu.cn/wangjianli/zh_CN/)
 
-## News {#news}
+<h2 id="news" class="section-title">
+  🔔 News
+</h2>
 
 - 2024.7.1: Two papers have been accepted by **European Conference on Computer Vision (ECCV) 2024**.
 - 2024.1.11: One paper "Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior" has been accepted by **IEEE Transactions on Computational Imaging**.
 - 2023.7.11: One paper "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images" has been accepted by **IEEE Transactions on Geoscience and Remote Sensing**.
 
-## Publications {#publications}
+<h2 id="publications" class="section-title">
+  📚 Publications
+</h2>
 
 {% include base_path %}
 
@@ -71,7 +91,9 @@ My current research interests include tensor modeling and computing, high-dimens
 - IEEE Transactions on Computational Imaging (IEEE TCI), Reviewer
 -->
 
-## Fundings {#fundings}
+<h2 id="fundings" class="section-title">
+  💰 Fundings
+</h2>
 
 
 - 国家自然科学基金青年项目, 2024.01-2026.12
@@ -80,6 +102,8 @@ My current research interests include tensor modeling and computing, high-dimens
 - 数据恢复四川省重点实验室开放课题重点项目, 2024.06-2026.06
 - 中央高校基本科研业务项目, 2023.01-2024.12
 
-## Activities {#activities}
+<h2 id="activities" class="section-title">
+  🎤 Activities
+</h2>
 - 10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](../images/poster_4.pdf)
 - 07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, **Online**, [[Slide]](../images/IGRASS2021_1400.pdf)

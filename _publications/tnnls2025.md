@@ -6,7 +6,7 @@ official_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11177249
 image: "files/Multimodal Quaternion Representation Network for Multisource Remote Sensing Data Classification.png"
 date: 2026-01-01
 collection: "publications"
-bibtex: |
+bibtex:|
 @ARTICLE{11177249,
   author={Wei, Yu-Le and Li, Heng-Chao and Wang, Jian-Li and Zheng, Yu-Bang and Pan, Jie and Du, Qian},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 

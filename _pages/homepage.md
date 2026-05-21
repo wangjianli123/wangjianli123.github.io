@@ -55,6 +55,20 @@ author_profile: true
   .page__content p {
   margin-bottom: 0.8rem !important;
   }
+
+  /* 1. 缩小小标题与上方段落的间距 */
+  .section-title {
+      margin-top: 0.5rem;   /* 默认可能是 2rem，可以改小 */
+      margin-bottom: 1rem;  /* 保持下面间距 */
+  }
+  
+  /* 2. 修改年份（h3）字体为 Times New Roman */
+  .page__content h3 {
+      font-family: "Times New Roman", Times, serif;
+      font-weight: normal;   /* 如果想保持和原来一样，可以保留 bold */
+      margin-top: 1rem;      /* 可根据需要调整 */
+      margin-bottom: 0.5rem; /* 可根据需要调整 */
+  }
   
 
  

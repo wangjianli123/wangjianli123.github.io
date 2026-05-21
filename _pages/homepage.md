@@ -15,19 +15,22 @@ author_profile: true
   }
 
   .section-title {
-  font-size: 2rem;
+  font-size: 1.9rem;
   font-weight: 700;
-
   color: #444;
-
-  margin-top: 2.2rem;
+  margin-top: 2.3rem;
   margin-bottom: 1rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #e8e8e8;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 
-  padding-bottom: 0.4rem;
+  scroll-margin-top: 80px; /* 确保导航点击时不会被 header 遮挡 */
+  }
 
-  border-bottom: 1px solid #e5e5e5;
-
-  letter-spacing: -0.5px;
+  html {
+    scroll-behavior: smooth; /* 平滑滚动 */
   }
 
   .page {

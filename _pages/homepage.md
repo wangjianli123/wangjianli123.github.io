@@ -47,9 +47,9 @@ author_profile: true
   }
   /* 调整段落间距 */
   p {
-      margin-top: 0.5rem;   /* 上间距 */
-      margin-bottom: 0.5rem; /* 下间距 */
-      line-height: 1.5;     /* 行高，可以根据需要调整 */
+      margin-top: 0.3rem;   /* 上间距 */
+      margin-bottom: 0.3rem; /* 下间距 */
+      line-height: 1.0;     /* 行高，可以根据需要调整 */
   }
   
   /* 可针对新闻、介绍段落单独控制 */

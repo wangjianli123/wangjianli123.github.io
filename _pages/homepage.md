@@ -135,7 +135,7 @@ My current research interests include tensor modeling and computing, high-dimens
 - 数据恢复四川省重点实验室开放课题重点项目, 2024.06-2026.06
 - 中央高校基本科研业务项目, 2023.01-2024.12
 
-<h2 id="award" class="section-title">
+<h2 id="awards" class="section-title">
   🏆 Awards
 </h2>
 -

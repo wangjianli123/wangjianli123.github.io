@@ -107,10 +107,10 @@ My current research interests include tensor modeling and computing, high-dimens
 - IEEE Transactions on Computational Imaging (IEEE TCI), Reviewer
 -->
 <h2 id="educations" class="section-title"> 🎓 Educations </h2> 
--2024.09-2025.03:Hong Kong Baptist University, Research Assistant in Faculty of Science 
--2019.09-2022.06:University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics Supervisor:[Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
--2017.09-2019.06：University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics Supervisor:[Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
--2013.09-2017.06：Neijiang Normal University; Bachelor student in Applied Mathematics
+- 2024.09-2025.03:Hong Kong Baptist University, Research Assistant in Faculty of Science 
+- 2019.09-2022.06:University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics Supervisor:[Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
+- 2017.09-2019.06：University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics Supervisor:[Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
+- 2013.09-2017.06：Neijiang Normal University; Bachelor student in Applied Mathematics
 
 <h2 id="fundings" class="section-title">
   💰 Fundings

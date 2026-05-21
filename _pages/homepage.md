@@ -44,9 +44,9 @@ author_profile: true
 
   /* 段落和段落间距 */
   .page__content p {
-      margin-top: 0.2rem;     /* 段内上间距 */
-      margin-bottom: 0.5rem;  /* 段间距 */
-      line-height: 1.4;       /* 行高 */
+      margin-top: 0.1rem;     /* 段内上间距 */
+      margin-bottom: 0.3rem;  /* 段间距 */
+      line-height: 1.0;       /* 行高 */
   }
 
   /* 列表 (News 或 Publications) */

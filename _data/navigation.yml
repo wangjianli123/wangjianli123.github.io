@@ -14,8 +14,14 @@ main:
   # - title: "Services"
   #   url: "/homepage/#services"
 
+  - title: "Educations"
+    url: "/homepage/#educations"
+
   - title: "Fundings"
     url: "/homepage/#fundings"
+
+  - title: "Awards"
+    url: "/homepage/#awards"
 
   - title: "Activities"
     url: "/homepage/#activities"

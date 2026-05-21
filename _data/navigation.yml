@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: "/homepage/#publications"
 
-  - title: "Services"
-    url: "/homepage/#services"
+  # - title: "Services"
+  #   url: "/homepage/#services"
 
   - title: "Fundings"
     url: "/homepage/#fundings"

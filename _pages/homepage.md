@@ -14,25 +14,6 @@ author_profile: true
     padding-right: 10px !important;
   }
 
-  .section-title {
-  font-size: 1.9rem;
-  font-weight: 700;
-  color: #444;
-  margin-top: 2.3rem;
-  margin-bottom: 1rem;
-  padding-bottom: 0.45rem;
-  border-bottom: 1px solid #e8e8e8;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-
-  scroll-margin-top: 80px; /* 确保导航点击时不会被 header 遮挡 */
-  }
-
-  html {
-    scroll-behavior: smooth; /* 平滑滚动 */
-  }
-
   .page {
     float: left !important;
     width: calc(100% - 200px) !important;
@@ -45,33 +26,50 @@ author_profile: true
   .page__content {
     max-width: none !important;
   }
-  /* 调整段落间距 */
-  p {
-      margin-top: 0.5rem;   /* 上间距 */
-      margin-bottom: 0.5rem; /* 下间距 */
-      line-height: 1.3;     /* 行高，可以根据需要调整 */
-  }
 
-  .page__content p {
-  margin-bottom: 0.8rem !important;
-  }
-
-  /* 1. 缩小小标题与上方段落的间距 */
+  /* 小标题 (section-title) */
   .section-title {
-      margin-top: 0.5rem;   /* 默认可能是 2rem，可以改小 */
-      margin-bottom: 1rem;  /* 保持下面间距 */
+    font-size: 1.9rem;
+    font-weight: 700;
+    color: #444;
+    margin-top: 0.5rem;   /* 上方间距缩小 */
+    margin-bottom: 1rem;  /* 下方间距 */
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid #e8e8e8;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    scroll-margin-top: 80px; /* 导航点击偏移 */
   }
-  
-  /* 2. 修改年份（h3）字体为 Times New Roman */
+
+  /* 段落和段落间距 */
+  .page__content p {
+      margin-top: 0.2rem;     /* 段内上间距 */
+      margin-bottom: 0.5rem;  /* 段间距 */
+      line-height: 1.4;       /* 行高 */
+  }
+
+  /* 列表 (News 或 Publications) */
+  .page__content ul,
+  .page__content ol {
+      margin-top: 0.2rem;
+      margin-bottom: 0.5rem;
+      line-height: 1.4;
+      padding-left: 1.5rem;  /* 保持缩进 */
+  }
+
+  /* 年份标题 (h3) */
   .page__content h3 {
       font-family: "Times New Roman", Times, serif;
-      font-weight: normal;   /* 如果想保持和原来一样，可以保留 bold */
-      margin-top: 1rem;      /* 可根据需要调整 */
-      margin-bottom: 0.5rem; /* 可根据需要调整 */
+      font-weight: normal;
+      margin-top: 0.8rem;
+      margin-bottom: 0.5rem;
   }
-  
 
- 
+  /* 平滑滚动 */
+  html {
+    scroll-behavior: smooth;
+  }
 
 }
 </style>

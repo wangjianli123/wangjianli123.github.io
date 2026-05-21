@@ -45,6 +45,19 @@ author_profile: true
   .page__content {
     max-width: none !important;
   }
+  /* 调整段落间距 */
+  p {
+      margin-top: 0.5rem;   /* 上间距 */
+      margin-bottom: 0.5rem; /* 下间距 */
+      line-height: 1.5;     /* 行高，可以根据需要调整 */
+  }
+  
+  /* 可针对新闻、介绍段落单独控制 */
+  #news p,
+  #publications p {
+      margin-top: 0.3rem;
+      margin-bottom: 0.3rem;
+  }
 
 }
 </style>

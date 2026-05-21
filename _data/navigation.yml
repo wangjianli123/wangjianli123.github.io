@@ -6,16 +6,16 @@ main:
   #   url: "/#about"
 
   - title: "News"
-    url: "/#news"
+    url: "/homepage/#news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/homepage/#publications"
 
   - title: "Services"
-    url: "/#services"
+    url: "/homepage/#services"
 
   - title: "Fundings"
-    url: "/#fundings"
+    url: "/homepage/#fundings"
 
   - title: "Activities"
-    url: "/#activities"
+    url: "/homepage/#activities"

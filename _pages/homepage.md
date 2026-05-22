@@ -119,10 +119,10 @@ My current research interests include tensor modeling and computing, high-dimens
 - IEEE Transactions on Computational Imaging (IEEE TCI), Reviewer
 -->
 <h2 id="educations" class="section-title"> 🎓 Educations </h2> 
-- 2024.09-2025.03:Hong Kong Baptist University, Research Assistant in Faculty of Science Supervisor:[NG, Michael Kwok-Po](https://www.math.hkbu.edu.hk/~mng)
-- 2019.09-2022.06:University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics Supervisor:[Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
-- 2017.09-2019.06：University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics Supervisor:[Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
-- 2013.09-2017.06：Neijiang Normal University; Bachelor student in Applied Mathematics
+- 2024.09-2025.03: Hong Kong Baptist University, Research Assistant in Faculty of Science, Supervisor: [NG, Michael Kwok-Po](https://www.math.hkbu.edu.hk/~mng)
+- 2019.09-2022.06: University of Electronic Science and Technology of China (UESTC), Ph. D. student in Applied Mathematics, Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
+- 2017.09-2019.06：University of Electronic Science and Technology of China (UESTC), Master student in Applied Mathematics, Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
+- 2013.09-2017.06：Neijiang Normal University, Bachelor student in Applied Mathematics
 
 <h2 id="fundings" class="section-title">
   💰 Fundings
@@ -144,5 +144,5 @@ My current research interests include tensor modeling and computing, high-dimens
 <h2 id="activities" class="section-title">
   🎤 Activities
 </h2>
-- 10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", CSIAM 2021, **Anhui, China**, [[Slide]](../images/poster_4.pdf)
-- 07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, **Online**, [[Slide]](../images/IGRASS2021_1400.pdf)
+- 10/2021: "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform", China Society for Industrial and Applied Mathematics, 2021, **Anhui, China**, [[Slide]](../images/poster_4.pdf)
+- 07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IEEE International Geoscience and Remote Sensing Symposium, 2021, **Online**, [[Slide]](../images/IGRASS2021_1400.pdf)

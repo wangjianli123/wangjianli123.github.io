@@ -211,27 +211,22 @@ html {
     max-width: none !important;
   }
 }
-/* News 列表段落间距：缩小每条之间的距离 */
 .page__content #news + ul li {
   margin-bottom: 0.35em !important;
   line-height: 1.45 !important;
 }
 
-/* News 标题和下面内容之间的距离 */
 .page__content #news + ul {
   margin-top: 0.4em !important;
 }
 
-/* 所有小标题下面的横线和间距更紧凑一些 */
 .page__content h2 {
   margin-top: 1.2em !important;
   margin-bottom: 0.45em !important;
   padding-bottom: 0.25em !important;
 }
 
-/* 年份标题，比如 2026、2025、2024 */
-.page__content h2 + h2,
-.page__content h2[id="publications"] ~ h2 {
+.pub-year {
   font-family: "Times New Roman", Times, serif !important;
   font-size: 1.25rem !important;
   font-weight: bold !important;

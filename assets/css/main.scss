@@ -236,3 +236,21 @@ html {
   margin-top: 0.8em !important;
   margin-bottom: 0.5em !important;
 }
+/* 缩小二级标题下方空隙 */
+.page__content h2 {
+  margin-top: 0.8em !important;
+  margin-bottom: 0.15em !important;
+  padding-bottom: 0.05em !important;
+}
+
+/* 缩小标题下面横线与内容的距离 */
+.page__content h2 + ul,
+.page__content h2 + p,
+.page__content h2 + .pub-year {
+  margin-top: 0.1em !important;
+}
+
+/* 缩小 Publications 标题和年份之间距离 */
+.pub-year {
+  margin-top: 0.2em !important;
+}

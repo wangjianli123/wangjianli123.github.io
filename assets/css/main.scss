@@ -212,21 +212,21 @@ html {
   }
 }
 
-/* News 列表段落间距：缩小每条之间的距离 */
-.page__content #news + ul li {
-  margin-bottom: 0.35em !important;
-  line-height: 1.45 !important;
+/* News 列表整体 */
+#news ~ ul {
+  margin-top: 0.2em !important;
+  margin-bottom: 0.6em !important;
 }
 
-/* News 标题和下面内容之间的距离 */
-.page__content #news + ul {
-  margin-top: 0.4em !important;
+/* News 每一条之间的间距 */
+#news ~ ul li {
+  margin-bottom: 0.15em !important;
+  line-height: 1.25 !important;
 }
 
-/* 所有小标题下面的横线和间距更紧凑一些 */
-.page__content h2 {
-  margin-top: 1.2em !important;
-  margin-bottom: 0.45em !important;
-  padding-bottom: 0.25em !important;
+/* News 列表中的段落 */
+#news ~ ul li p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }
 

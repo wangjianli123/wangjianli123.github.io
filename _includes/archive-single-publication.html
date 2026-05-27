@@ -106,16 +106,16 @@
     </a>
   {% endif %}
 
-  {% if post.bibtex %}
-    <a href="javascript:void(0);"
-       onclick="toggleBibtex('{{ post.slug }}')"
-       style="text-decoration:none; margin-right:18px;">
-      <i class="fa fa-quote-left" aria-hidden="true"></i>
-      BibTeX
-    </a>
+ {% if post.bibtex %}
+  <a href="javascript:void(0);"
+     onclick="toggleBibtex('{{ post.slug }}')"
+     style="text-decoration:none; margin-right:18px;">
+    <i class="fa fa-quote-left" aria-hidden="true"></i>
+    BibTeX
+  </a>
 
-   <div id="bibtex-{{ post.slug }}"
-     style="display:none; margin-top:12px; width:100%;">
+  <div id="bibtex-{{ post.slug }}"
+       style="display:none; margin-top:12px; width:100%;">
 
 <pre style="background:#f5f5f5;
 padding:12px;
@@ -126,7 +126,8 @@ word-break:break-word;
 overflow-x:hidden;
 max-width:100%;">{{ post.bibtex }}</pre>
 
-</div>
+  </div>
+{% endif %}
         </div>
 
       </div>

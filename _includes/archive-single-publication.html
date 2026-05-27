@@ -114,19 +114,19 @@
       BibTeX
     </a>
 
-    <div id="bibtex-{{ post.slug }}"
-         style="display:none; margin-top:12px;">
+   <div id="bibtex-{{ post.slug }}"
+     style="display:none; margin-top:12px; width:100%;">
 
 <pre style="background:#f5f5f5;
 padding:12px;
 font-size:13px;
 border-radius:4px;
-overflow-x:auto;">{{ post.bibtex }}</pre>
-
-  {% endif %}
+white-space:pre-wrap;
+word-break:break-word;
+overflow-x:hidden;
+max-width:100%;">{{ post.bibtex }}</pre>
 
 </div>
-
         </div>
 
       </div>

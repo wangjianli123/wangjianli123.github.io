@@ -220,3 +220,13 @@ table {
   line-height: 1.45 !important;
   margin-bottom: 0.75em !important;
 }
+
+/* 正文自动换行，必要时使用连字符断词 */
+.page__content,
+.archive__item,
+.archive__item-title,
+.archive__item p {
+  hyphens: auto;
+  overflow-wrap: break-word;
+  word-break: normal;
+}

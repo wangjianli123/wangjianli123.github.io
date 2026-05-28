@@ -121,12 +121,13 @@ table {
 
 .author__name,
 .author__bio {
+  text-align: center !important;
+}
+
+.author__urls {
   text-align: left !important;
 }
 
-.author__name {
-  white-space: normal;
-}
 
 @media (min-width: 64em) {
   .layout--single .page {

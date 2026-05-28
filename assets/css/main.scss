@@ -212,23 +212,7 @@ html {
   }
 }
 
-/* News 列表整体 */
-#news ~ ul {
-  margin-top: 0.2em !important;
-  margin-bottom: 0.6em !important;
-}
 
-/* News 每一条之间的间距 */
-#news ~ ul li {
-  margin-bottom: 0.15em !important;
-  line-height: 1.25 !important;
-}
-
-/* News 列表中的段落 */
-#news ~ ul li p {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
 .pub-year {
   font-family: "Times New Roman", Times, serif !important;
   font-size: 1.25rem !important;
@@ -236,21 +220,4 @@ html {
   margin-top: 0.8em !important;
   margin-bottom: 0.5em !important;
 }
-/* 缩小二级标题下方空隙 */
-.page__content h2 {
-  margin-top: 0.8em !important;
-  margin-bottom: 0.15em !important;
-  padding-bottom: 0.05em !important;
-}
 
-/* 缩小标题下面横线与内容的距离 */
-.page__content h2 + ul,
-.page__content h2 + p,
-.page__content h2 + .pub-year {
-  margin-top: 0.1em !important;
-}
-
-/* 缩小 Publications 标题和年份之间距离 */
-.pub-year {
-  margin-top: 0.2em !important;
-}

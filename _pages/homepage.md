@@ -73,7 +73,7 @@ author_profile: true
 
 }
 </style>
-<div class="about-section">
+<div class="about-section" markdown="1">
 I am currently working with the [School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022.
 
 My current research interests include tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning.

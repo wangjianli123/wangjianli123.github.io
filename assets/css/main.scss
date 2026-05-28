@@ -209,27 +209,13 @@ table {
   margin-top: 0.8em !important;
   margin-bottom: 0.5em !important;
 }
-/* 控制二级标题上下间距 */
-.page__content h2 {
-  margin-top: 0.6em !important;
-  margin-bottom: 0.2em !important;
-  padding-bottom: 0.15em !important;
+/* 调整 About Me 区域文字行距和段间距 */
+.page__content > p {
+  line-height: 1.45 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.75em !important;
 }
-
-/* 控制 News 列表和标题之间距离 */
-#news + ul,
-#news ~ ul {
-  margin-top: 0.2em !important;
-}
-
-/* 控制列表内部每条 News 的间距 */
-#news ~ ul li {
-  margin-bottom: 0.25em !important;
-  line-height: 1.35 !important;
-}
-
-/* 控制 Publications 标题和年份之间距离 */
-#publications + .pub-year,
-#publications ~ .pub-year {
-  margin-top: 0.3em !important;
+.about-section p {
+  line-height: 1.45 !important;
+  margin-bottom: 0.75em !important;
 }

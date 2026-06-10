@@ -80,7 +80,9 @@ My current research interests include tensor modeling and computing, high-dimens
 
 📢 **My group recruits 1–2 PhD students and 7–10 Master's students each year. Undergraduate students interested in gaining hands-on research experience are also welcome to join our research training program. I especially encourage self-motivated students to reach out. Please feel free to contact me!**
 
-📧 E-mail: wangjianli_123@163.com, wangjianli@swjtu.edu.cn &emsp; 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ) &emsp; 🏫 [Faculty Homepage](https://faculty.swjtu.edu.cn/wangjianli/zh_CN/)
+📧 E-mail:
+  <a href="mailto:wangjianli_123@163.com">wangjianli_123@163.com</a>,
+  <a href="mailto:wangjianli@swjtu.edu.cn">wangjianli@swjtu.edu.cn</a> &emsp; 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ) &emsp; 🏫 [Faculty Homepage](https://faculty.swjtu.edu.cn/wangjianli/zh_CN/)
 </div>
 
 <h2 id="news" class="section-title">

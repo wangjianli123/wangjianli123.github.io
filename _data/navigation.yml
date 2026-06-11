@@ -3,7 +3,7 @@ main:
   #   url: "/#about"
 
   - title: "About Me"
-    url: "/#about"
+    url: "/homepage/#about"
 
   - title: "News"
     url: "/homepage/#news"

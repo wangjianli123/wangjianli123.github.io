@@ -14,8 +14,8 @@ main:
   # - title: "Services"
   #   url: "/homepage/#services"
 
-  - title: "Educations"
-    url: "/homepage/#educations"
+  - title: "Education"
+    url: "/homepage/#education"
 
   - title: "Fundings"
     url: "/homepage/#fundings"

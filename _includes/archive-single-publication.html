@@ -1,16 +1,20 @@
 {% include base_path %}
 
 <!-- 图片路径 -->
+{% assign preview = "" %}
+
 {% if post.image %}
   {% assign preview = post.image %}
 {% elsif post.preview %}
   {% assign preview = post.preview %}
 {% endif %}
 
-{% if preview contains "://" %}
-  {% assign preview = preview %}
-{% else %}
-  {% assign preview = preview | prepend: base_path %}
+{% if preview != "" %}
+  {% if preview contains "://" %}
+    {% assign preview = preview %}
+  {% else %}
+    {% assign preview = preview | prepend: base_path %}
+  {% endif %}
 {% endif %}
 
 <!-- 标题 -->
@@ -34,24 +38,22 @@
     <div style="display:flex; align-items:center; gap:24px;">
 
       <!-- 左侧图片 -->
-      {% if preview %}
+      {% if preview != "" %}
       <div style="flex:0 0 130px;">
-     <img
-        src="{{ preview }}"
-        alt=""
-        style="
-          width: 160px;
-          height: auto;
-          object-fit: contain;
-      
-          border: 2px solid #cfcfcf;
-          padding: 10px;
-          background: white;
-      
-          border-radius: 8px;
-          box-sizing: border-box;
-  "
->
+        <img
+          src="{{ preview }}"
+          alt=""
+          style="
+            width: 160px;
+            height: auto;
+            object-fit: contain;
+            border: 2px solid #cfcfcf;
+            padding: 10px;
+            background: white;
+            border-radius: 8px;
+            box-sizing: border-box;
+          "
+        >
       </div>
       {% endif %}
 
@@ -77,45 +79,45 @@
         </p>
 
         <!-- 链接 -->
-<div class="pub-links">
+        <div class="pub-links">
 
-  {% if post.official_url %}
-    <a href="{{ post.official_url }}"
-       target="_blank"
-       style="text-decoration:none; margin-right:18px;">
-      <i class="fa fa-external-link" aria-hidden="true"></i>
-      Publisher's Version
-    </a>
-  {% endif %}
+          {% if post.official_url %}
+            <a href="{{ post.official_url }}"
+               target="_blank"
+               style="text-decoration:none; margin-right:18px;">
+              <i class="fa fa-external-link" aria-hidden="true"></i>
+              Publisher's Version
+            </a>
+          {% endif %}
 
-  {% if post.arxiv_url %}
-    <a href="{{ post.arxiv_url }}"
-       target="_blank"
-       style="text-decoration:none; margin-right:18px;">
-      <i class="fa fa-file-pdf" aria-hidden="true"></i>
-      ArXiv Version
-    </a>
-  {% endif %}
+          {% if post.arxiv_url %}
+            <a href="{{ post.arxiv_url }}"
+               target="_blank"
+               style="text-decoration:none; margin-right:18px;">
+              <i class="fa fa-file-pdf" aria-hidden="true"></i>
+              ArXiv Version
+            </a>
+          {% endif %}
 
- {% if post.code %}
-  <a href="{{ post.code | relative_url }}"
-     target="_blank"
-     style="text-decoration:none; margin-right:18px;">
-    <i class="fas fa-laptop-code" aria-hidden="true"></i>
-    Code
-  </a>
-{% endif %}
+          {% if post.code %}
+            <a href="{{ post.code | relative_url }}"
+               target="_blank"
+               style="text-decoration:none; margin-right:18px;">
+              <i class="fas fa-laptop-code" aria-hidden="true"></i>
+              Code
+            </a>
+          {% endif %}
 
- {% if post.bibtex %}
-  <a href="javascript:void(0);"
-     onclick="toggleBibtex('{{ post.slug }}')"
-     style="text-decoration:none; margin-right:18px;">
-    <i class="fa fa-quote-left" aria-hidden="true"></i>
-    BibTeX
-  </a>
+          {% if post.bibtex %}
+            <a href="javascript:void(0);"
+               onclick="toggleBibtex('{{ post.slug }}')"
+               style="text-decoration:none; margin-right:18px;">
+              <i class="fa fa-quote-left" aria-hidden="true"></i>
+              BibTeX
+            </a>
 
-  <div id="bibtex-{{ post.slug }}"
-       style="display:none; margin-top:12px; width:100%;">
+            <div id="bibtex-{{ post.slug }}"
+                 style="display:none; margin-top:12px; width:100%;">
 
 <pre style="background:#f5f5f5;
 padding:12px;
@@ -128,8 +130,9 @@ hyphens:auto;
 overflow-x:hidden;
 max-width:100%;">{{ post.bibtex }}</pre>
 
-  </div>
- </div>
+            </div>
+          {% endif %}
+
         </div>
 
       </div>

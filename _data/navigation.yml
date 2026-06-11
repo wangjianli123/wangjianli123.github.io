@@ -2,8 +2,8 @@ main:
   # - title: "Home"
   #   url: "/#about"
 
-  # - title: "About Me"
-  #   url: "/#about"
+  - title: "About Me"
+    url: "/#about"
 
   - title: "News"
     url: "/homepage/#news"

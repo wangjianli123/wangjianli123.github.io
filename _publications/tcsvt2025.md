@@ -1,7 +1,7 @@
 ---
 title: "Frequency-Aware Implicit Neural Representation for Multi-Dimensional Data Recovery"
 authors: "Ting-Wei Zhou, Xi-Le Zhao, Wei-Hao Wu, <b>Jian-Li Wang</b>, Yi-Si Luo"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 35, no. 11, pp. 10862-10874"
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 35, no. 11, pp. 10862-10874"
 official_url: "https://ieeexplore.ieee.org/abstract/document/11020675"
 image: "files/Frequency-Aware Implicit Neural Representation for Multi-Dimensional Data Recovery.png"
 date: 2025-01-01

@@ -119,7 +119,7 @@ My current research interests include tensor modeling and computing, high-dimens
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
 - IEEE Transactions on Computational Imaging (IEEE TCI), Reviewer
 -->
-<h2 id="educations" class="section-title"> 🎓 Educations </h2> 
+<h2 id="education" class="section-title"> 🎓 Education </h2> 
 - 2024.09-2025.03: Hong Kong Baptist University, Research Assistant in Faculty of Science, Supervisor: [NG, Michael Kwok-Po](https://www.math.hkbu.edu.hk/~mng)
 - 2019.09-2022.06: University of Electronic Science and Technology of China, Ph. D. student in Applied Mathematics, Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 
 - 2017.09-2019.06: University of Electronic Science and Technology of China, Master student in Applied Mathematics, Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](https://www.math.uestc.edu.cn/info/1081/2041.htm) 

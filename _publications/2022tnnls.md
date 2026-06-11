@@ -1,10 +1,10 @@
 ---
 title: "CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion"
 authors: "<b>Jian-Li Wang</b>, Ting-Zhu Huang, Xi-Le Zhao, Yi-Si Luo, Tai-Xiang Jiang"
-venue: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS), vol 35, no 7, pp. 8969-8983"
+venue: "IEEE Transactions on Neural Networks and Learning Systems, vol 35, no 7, pp. 8969-8983"
 official_url: "https://ieeexplore.ieee.org/abstract/document/9946011"
 image: "files/CoNoT.png"
-date: 2022-01-01
+date: 2024-01-01
 collection: "publications"
 bibtex: |
   @ARTICLE{9946011,

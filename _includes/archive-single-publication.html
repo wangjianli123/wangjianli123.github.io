@@ -97,14 +97,14 @@
     </a>
   {% endif %}
 
-  {% if post.code %}
-    <a href="{{ post.code }}"
-       target="_blank"
-       style="text-decoration:none; margin-right:18px;">
-      <i class="fas fa-laptop-code" aria-hidden="true"></i>
-      Code
-    </a>
-  {% endif %}
+ {% if post.code %}
+  <a href="{{ post.code | relative_url }}"
+     target="_blank"
+     style="text-decoration:none; margin-right:18px;">
+    <i class="fas fa-laptop-code" aria-hidden="true"></i>
+    Code
+  </a>
+{% endif %}
 
  {% if post.bibtex %}
   <a href="javascript:void(0);"
@@ -129,10 +129,7 @@ overflow-x:hidden;
 max-width:100%;">{{ post.bibtex }}</pre>
 
   </div>
-{% endif %}
-  {% if post.code %}
-  <a href="{{ post.code | relative_url }}" target="_blank">Code</a>
-{% endif %}
+
         </div>
 
       </div>

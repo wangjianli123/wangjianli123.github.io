@@ -1,7 +1,7 @@
 ---
 title: "Low-Rank Regularized Correlation Filter for Hyperspectral Video Object Tracking"
 authors: "Na-Na Li, Heng-Chao Li, <b>Jian-Li Wang</b>, Xiong-Fei Geng, Jie Pan"
-venue: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), vol. 18, pp. 17513-17525"
+venue: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 17513-17525"
 official_url: "https://ieeexplore.ieee.org/abstract/document/11072336"
 image: "files/Low-Rank Regularized Correlation Filter for Hyperspectral Video Object Tracking.png"
 date: 2025-01-01

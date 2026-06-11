@@ -1,7 +1,7 @@
 ---
 title: "Hyperspectral Image Denoising via Generalized Kronecker Decomposition-Based Subspace Representation"
 authors: "Wei-Hao Wu, Ting-Zhu Huang, Min Wang, Yong Chen, <b>Jian-Li Wang</b>, Zhi-Long Han, Jia-Yi Li"
-venue: "Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 7622-7625"
+venue: "Proceedings of the IEEE International Geoscience and Remote Sensing Symposium, pp. 7622-7625"
 official_url: "https://ieeexplore.ieee.org/abstract/document/10642861"
 image: "files/HYPERSPECTRAL IMAGE DENOISING VIA GENERALIZED KRONECKER.png"
 date: 2024-01-01
